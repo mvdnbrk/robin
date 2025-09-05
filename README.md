@@ -34,6 +34,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
     - 2x Cameo Nanobeam 600
     - 3x BeamZ LCB244 LED Bars
     - 1x Martin THRILL Vertical Fogger
+    - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
 - Control: SoundSwitch Control One (integrated DMX)
 - Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
 - Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
@@ -46,13 +47,14 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Mixer: Denon DJ X1850 Prime
 - Media Players: 2x Denon DJ SC5000M Prime (motorized platters)
 - PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
-- Microphone: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled)
+- Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required)
 
 #### Lighting Fixtures
 - Moving Head Spots: 6x Showtec Phantom 65 Spot (65W LED), 16-bit pan/tilt, gobo + color wheel, 8–16 channels (mode dependent)
 - Moving Beam Heads: 2x Cameo Nanobeam 600 (beam), 8–16 channels (mode dependent)
 - LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
 - Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
+ - Fog: 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs), use manufacturer-recommended fluid
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
@@ -135,12 +137,13 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 ## Kit Contents (What You Receive)
 - Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
-- Microphone: 1x Shure SM7dB (wired)
+- Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
 - Lighting:
   - 6x Showtec Phantom 65 Spot
   - 2x Cameo Nanobeam 600
   - 3x BeamZ LCB244 LED Bars
   - 1x Martin THRILL Vertical Fogger
+  - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
 - Control: SoundSwitch Control One (USB)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 
@@ -152,10 +155,11 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 
 ### 1) Pre‑Event Preparation
 1. Prepare the SM7dB and confirm phantom power (if using built-in preamp) on the mixer/interface.
-2. Update Engine OS on the controller and Engine DJ Desktop if needed.
-3. Export your Engine DJ library to the performance USB/drive. Verify playlists load.
-4. Open SoundSwitch and verify the venue/light show project. Export show data to the Engine drive if using Engine Lighting.
-5. Label cable bundles by length (short/medium/long) and fixture groups.
+2. Prepare the Sennheiser XS 1 and connect via XLR.
+3. Update Engine OS on the controller and Engine DJ Desktop if needed.
+4. Export your Engine DJ library to the performance USB/drive. Verify playlists load.
+5. Open SoundSwitch and verify the venue/light show project. Export show data to the Engine drive if using Engine Lighting.
+6. Label cable bundles by length (short/medium/long) and fixture groups.
 
 ### 2) Room Layout and Power
 1. Place DJ booth where power is available and safe from foot traffic/spills.
@@ -168,7 +172,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 1. Place subs and tops. Power off everything.
 2. Connect controller master out to subs (XLR L/R). From subs’ high-pass outs to tops (XLR L/R).
 3. Connect booth out to booth monitors (TRS/XLR).
-4. Connect microphone: SM7dB via XLR to mixer input (enable phantom if using built-in preamp).
+4. Connect microphone(s): SM7dB via XLR to mixer input (enable phantom if using built-in preamp); XS 1 via XLR (no phantom required).
 5. Power on sequence: controller → subs → tops → booth monitors.
 6. Set initial gains: controller master at 0 dB, channel gains to unity, subs/tops input gains noon; limiters on.
 
@@ -259,4 +263,6 @@ Option B: Laptop with SoundSwitch + Control One
 - Martin THRILL Vertical Fogger: https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE
 - Cameo Nanobeam 600: https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600
 - BeamZ LCB244 LED Bar: https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/
+- BeamZ S1500LED Fog Machine: https://www.maxiaxi.com/beamz-s1500led-rookmachine-met-dmx-en-led-s-1500-watt/
+- Sennheiser XS 1: https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon
 - Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
