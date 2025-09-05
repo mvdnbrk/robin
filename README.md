@@ -62,6 +62,7 @@ Alternative club setup (flight case):
 - LED Bars (effects/wash): 2x pixel-mappable RGB bars, 8–24 channels
 - Strobe/Blinder: 2x LED strobe/blinder combo, 4–8 channels
 - Hazer: 1x water-based haze machine, DMX-capable
+- Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
 - Wireless DMX (optional): 1x transmitter + 3–4x receivers, or use cabled DMX
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
@@ -129,6 +130,7 @@ Cable management: Velcro ties, cable ramps for walkways, gaffer tape (residue-fr
   - PARs 5–8: start 161, 169, 177, 185 (8 ch each)
   - Strobe/Blinder 1–2: start 193, 201 (4–8 ch each)
   - Hazer: start 209 (2 ch)
+  - Fog: start 211 (2 ch)
 - Terminate the last fixture in the chain with a 120 Ω terminator.
 
 Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows from track metadata and BPM, and map fixtures via Fixture Profiles. Ensure all fixture profiles exist in the SoundSwitch library.
@@ -149,7 +151,7 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 - Controller: Denon DJ PRIME-series controller with power supply
 - Flight Case (DJ players + mixer, alternative to all-in-one controller): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer, 2x booth monitors
-- Lighting: 6x moving heads (Showtec Phantom 65 Spot), 8x PARs, 2x LED bars, 2x strobe/blinders, 1x hazer
+- Lighting: 6x moving heads (Showtec Phantom 65 Spot), 8x PARs, 2x LED bars, 2x strobe/blinders, 1x hazer, 1x Martin THRILL Vertical Fogger
 - Control: SoundSwitch Control One (USB) with integrated dual DMX outputs (USB cable included), or wireless DMX kit; SoundSwitch project USB
 - Stands/Truss: 2x lighting stands with T-bars or mini truss
 - Cabling: Audio XLR/TRS, DMX (3/5-pin), mains, IEC/PowerCON, DMX terminators
@@ -250,7 +252,7 @@ Option B: Laptop with SoundSwitch + Control One
 ## Packing Checklist (Return in Good Order)
 - Controller + PSU, USB engine drive
 - 2x tops, 1–2x subs, 2x booth monitors
-- 2x moving heads, 8x PARs, 2x LED bars, 2x strobe/blinders, hazer
+- 2x moving heads, 8x PARs, 2x LED bars, 2x strobe/blinders, hazer, fog
 - DMX interface or wireless kit, 2x DMX terminators
 - Audio cables: XLR, TRS, RCA as listed
 - DMX cables: long, medium, short bundles
@@ -268,3 +270,4 @@ Option B: Laptop with SoundSwitch + Control One
 - Bose F1 Model 812: https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812
 - Bose F1 Subwoofer: https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief
 - Showtec Phantom 65 Spot: https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead
+- Martin THRILL Vertical Fogger: https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE
