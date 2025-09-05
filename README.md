@@ -27,52 +27,34 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ---
 
 ### System Overview
-- DJ Booth: Denon DJ controller with Engine DJ and Engine Lighting enabled
-- Audio: 2x tops + 1–2x subs, booth monitors, mics
-- Lighting: Moving heads, LED PAR wash, LED bar effects, strobe/blinder, haze (venue permitting)
-- Control: Engine Lighting via SoundSwitch, or SoundSwitch Control One (integrated DMX)
+- DJ Booth: Denon DJ X1850 Prime + 2x SC5000M Prime (flight case)
+- Audio: 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
+- Lighting: 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 3x BeamZ LCB244 LED Bars, 1x Martin THRILL Vertical Fogger
+- Control: SoundSwitch Control One (integrated DMX)
 - Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
-- Stands/Truss: Two lighting stands with a crossbar or a short truss span
+- Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
 
 ---
 
 ### Example Bill of Materials (BOM)
 
 #### DJ and Audio
-- Controller: Denon DJ PRIME series (e.g., PRIME 4 / SC LIVE 4 / SC LIVE 2) with latest Engine OS
-- Laptop (optional): For library prep in Engine DJ Desktop and SoundSwitch show creation
-- PA Tops: 2x 12" or 15" powered speakers (e.g., 1000–2000 W peak each)
-- Subwoofers: 1–2x 15" or 18" powered subs (1000–2000 W peak each)
-- Booth Monitors: 2x compact powered speakers (8"–10")
-- Microphones: 1x wired dynamic (XLR) + 1x wireless handheld kit (UHF/2.4 GHz per local regulation)
-- DI/Utility: 1x stereo DI box (for venue tie-ins) + ground lift switches
-- Audio Management: Optional 2x2 USB interface if recording, or small utility mixer if multiple sources
-
-PA Option (Bose F1 system):
-- 2x Bose F1 Model 812 Flex Array loudspeakers (active)
-- 2x Bose F1 Subwoofer (active)
-
-Alternative club setup (flight case):
 - Mixer: Denon DJ X1850 Prime
 - Media Players: 2x Denon DJ SC5000M Prime (motorized platters)
+- PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
+- Microphone: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled)
 
 #### Lighting Fixtures
 - Moving Head Spots: 6x Showtec Phantom 65 Spot (65W LED), 16-bit pan/tilt, gobo + color wheel, 8–16 channels (mode dependent)
-- LED Wash PARs: 8x RGBW or RGBA 10–12W x7 LEDs, 6–10 channels
-- LED Bars (effects/wash): 2x pixel-mappable RGB bars, 8–24 channels
-- Strobe/Blinder: 2x LED strobe/blinder combo, 4–8 channels
-- Hazer: 1x water-based haze machine, DMX-capable
+- Moving Beam Heads: 2x Cameo Nanobeam 600 (beam), 8–16 channels (mode dependent)
+- LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
 - Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
-- Wireless DMX (optional): 1x transmitter + 3–4x receivers, or use cabled DMX
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
 #### Control and Rigging
-- DMX Interface: SoundSwitch Control One (integrated dual DMX outputs) or SoundSwitch USB-to-DMX interface
-- Lighting Stands: 2x tripod stands with T-bars or 2x crank stands + 2–3 m truss (verify load rating for 6 moving heads)
-- Clamps: 20–24x O-clamps or trigger clamps (rated for fixture weight)
-- Safety Bonds: 20–24x steel safety cables, rated
-- Cases: Controller case, cable trunk, fixture bags/cases
+- DMX Interface: SoundSwitch Control One (integrated dual DMX outputs)
+- Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
 
 Additional control hardware:
 - SoundSwitch Control One USB hardware for hands-on control of Autoloops, Static Looks, Strobe/Blinder, Smoke, Blackout, and next/previous scene selection.
@@ -124,13 +106,12 @@ Cable management: Velcro ties, cable ramps for walkways, gaffer tape (residue-fr
   - Moving Head 4: start 049 (16 ch)
   - Moving Head 5: start 065 (16 ch)
   - Moving Head 6: start 081 (16 ch)
-  - LED Bar 1: start 097 (16 ch)
-  - LED Bar 2: start 113 (16 ch)
-  - PARs 1–4: start 129, 137, 145, 153 (8 ch each)
-  - PARs 5–8: start 161, 169, 177, 185 (8 ch each)
-  - Strobe/Blinder 1–2: start 193, 201 (4–8 ch each)
-  - Hazer: start 209 (2 ch)
-  - Fog: start 211 (2 ch)
+  - Moving Beam 1: start 097 (16 ch)
+  - Moving Beam 2: start 113 (16 ch)
+  - LED Bar 1: start 129 (16 ch)
+  - LED Bar 2: start 145 (16 ch)
+  - LED Bar 3: start 161 (16 ch)
+  - Fog: start 177 (2 ch)
 - Terminate the last fixture in the chain with a 120 Ω terminator.
 
 Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows from track metadata and BPM, and map fixtures via Fixture Profiles. Ensure all fixture profiles exist in the SoundSwitch library.
@@ -148,15 +129,12 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 ---
 
 ## Kit Contents (What You Receive)
-- Controller: Denon DJ PRIME-series controller with power supply
-- Flight Case (DJ players + mixer, alternative to all-in-one controller): X1850 Prime mixer + 2x SC5000M Prime media players
-- PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer, 2x booth monitors
-- Lighting: 6x moving heads (Showtec Phantom 65 Spot), 8x PARs, 2x LED bars, 2x strobe/blinders, 1x hazer, 1x Martin THRILL Vertical Fogger
-- Control: SoundSwitch Control One (USB) with integrated dual DMX outputs (USB cable included), or wireless DMX kit; SoundSwitch project USB
-- Stands/Truss: 2x lighting stands with T-bars or mini truss
-- Cabling: Audio XLR/TRS, DMX (3/5-pin), mains, IEC/PowerCON, DMX terminators
-- Accessories: Clamps, safety bonds, power strips with RCD/surge, tape, cable ties
-- Cases: Marked for controller, cables, audio, lighting
+- Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
+- PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
+- Microphone: 1x Shure SM7dB (wired)
+- Lighting: 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 3x BeamZ LCB244 LED Bars, 1x Martin THRILL Vertical Fogger
+- Control: SoundSwitch Control One (USB)
+- Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
@@ -165,7 +143,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 ## How to Run the Rig (Step-by-Step)
 
 ### 1) Pre‑Event Preparation
-1. Charge wireless mic(s) and check batteries/spares.
+1. Prepare the SM7dB and confirm phantom power (if using built-in preamp) on the mixer/interface.
 2. Update Engine OS on the controller and Engine DJ Desktop if needed.
 3. Export your Engine DJ library to the performance USB/drive. Verify playlists load.
 4. Open SoundSwitch and verify the venue/light show project. Export show data to the Engine drive if using Engine Lighting.
@@ -173,8 +151,8 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 
 ### 2) Room Layout and Power
 1. Place DJ booth where power is available and safe from foot traffic/spills.
-2. Position PA: subs on floor, tops on stands left/right of dance floor, slight toe-in.
-3. Place lighting stands to left/right of booth. Ensure overhead clearance; use safety bonds.
+2. Position PA: place Bose F1 subs and tops left/right of dance floor, slight toe-in.
+3. Position truss to left/right of booth. Ensure overhead clearance; secure fixtures with safety bonds.
 4. Run a dedicated power run to audio and a separate one to lighting where possible to reduce noise.
 5. Use RCD/RCBO protection. Keep cables along walls; cross walkways with cable ramps.
 
@@ -182,7 +160,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 1. Place subs and tops. Power off everything.
 2. Connect controller master out to subs (XLR L/R). From subs’ high-pass outs to tops (XLR L/R).
 3. Connect booth out to booth monitors (TRS/XLR).
-4. Connect microphones: wireless receiver via XLR to controller/mixer; wired mic to XLR input.
+4. Connect microphone: SM7dB via XLR to mixer input (enable phantom if using built-in preamp).
 5. Power on sequence: controller → subs → tops → booth monitors.
 6. Set initial gains: controller master at 0 dB, channel gains to unity, subs/tops input gains noon; limiters on.
 
@@ -194,7 +172,7 @@ Bose F1 wiring (recommended):
 
 ### 4) Build Lighting (DMX)
 1. With power off, mount fixtures on T-bars/truss using rated clamps and safety bonds.
-2. Daisy-chain DMX from controller/USB DMX or wireless receiver to first fixture, then through the chain.
+2. Daisy-chain DMX from Control One DMX out to first fixture, then through the chain.
 3. Set fixture DMX addresses to match the DMX Layout table above; set DMX mode/channel count per the plan.
 4. Plug in power to each fixture. Use IEC/PowerCON as applicable. Keep DMX and power separated where possible.
 5. Place a DMX terminator at the last fixture in the chain.
@@ -209,7 +187,7 @@ Note: SoundSwitch Control One requires a laptop running SoundSwitch software.
 
 Option B: Laptop with SoundSwitch + Control One
 - Connect Control One to the laptop via USB. In SoundSwitch, verify Control One is detected (and set as the DMX interface if using its outputs).
-- If not using Control One DMX outputs, select your USB DMX or wireless interface in preferences.
+ - If not using Control One DMX outputs, select your USB DMX interface in preferences.
 - Open your show project, confirm fixtures are patched/profiled, and addresses match hardware.
 - Use Control One pads/encoders:
   - Autoloops: trigger and adjust intensity/color/movement banks
@@ -271,3 +249,6 @@ Option B: Laptop with SoundSwitch + Control One
 - Bose F1 Subwoofer: https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief
 - Showtec Phantom 65 Spot: https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead
 - Martin THRILL Vertical Fogger: https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE
+- Cameo Nanobeam 600: https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600
+- BeamZ LCB244 LED Bar: https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/
+- Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
