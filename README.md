@@ -1,6 +1,7 @@
 # ROBIN
 
 ## UNDER REVIEW
+check for updates when published
 
 ## DJ + Lighting Setup
 
