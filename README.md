@@ -29,7 +29,11 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ### System Overview
 - DJ Booth: Denon DJ X1850 Prime + 2x SC5000M Prime (flight case)
 - Audio: 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
-- Lighting: 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 3x BeamZ LCB244 LED Bars, 1x Martin THRILL Vertical Fogger
+- Lighting:
+    - 6x Showtec Phantom 65 Spot
+    - 2x Cameo Nanobeam 600
+    - 3x BeamZ LCB244 LED Bars
+    - 1x Martin THRILL Vertical Fogger
 - Control: SoundSwitch Control One (integrated DMX)
 - Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
 - Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
@@ -132,7 +136,11 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 - Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
 - Microphone: 1x Shure SM7dB (wired)
-- Lighting: 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 3x BeamZ LCB244 LED Bars, 1x Martin THRILL Vertical Fogger
+- Lighting:
+  - 6x Showtec Phantom 65 Spot
+  - 2x Cameo Nanobeam 600
+  - 3x BeamZ LCB244 LED Bars
+  - 1x Martin THRILL Vertical Fogger
 - Control: SoundSwitch Control One (USB)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 
