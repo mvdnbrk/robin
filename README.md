@@ -97,6 +97,35 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 ---
 
+#### Small Venue Scaling Recommendations
+- For smaller venues, reduce fixture count in this order:
+  1) Leave out the ADJ Sweeper Beam Quad LED fixtures first.
+  2) Then either leave out the Showtec Shark Zoom Wash One fixtures, or reduce the number of Showtec Phantom 65 Spots (e.g., from 6 to 4).
+
+ Note: You do not need to readdress DMX when leaving fixtures out. Keep the existing addresses as-is. DMX output will continue to function even if one or more fixtures are unplugged or powered off (ensure the last fixture in the chain remains terminated with a 120 Ω terminator).
+
+---
+
+### System Overview
+- DJ Booth: [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) + 2x [SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) (flight case)
+- Audio: 2x [Bose F1 Model 812](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief)
+- Lighting:
+    - 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead)
+    - 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600)
+    - 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) RGBW LED moving heads
+    - 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars
+    - 2x [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/)
+    - 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE)
+    - 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) (1500W, 9x 3W RGB; trigger via wired remote or DMX)
+    - 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led)
+- Control: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (integrated DMX)
+- Storage: SC5000M includes a 1 TB internal drive for the Engine DJ music library
+- Network: [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch linking X1850 and SC5000M players (and laptop if required)
+- Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
+- Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
+
+---
+
 #### Prewired Flight Case (What’s Already Connected)
 - Inside the flight case, the [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) players are linked to the [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) via RCA (audio) and Denon Link (Ethernet) and the internal power harness is connected (3x plugs on one distro strip).
 - The [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) switch is mounted and connected to the players/mixer internally.
