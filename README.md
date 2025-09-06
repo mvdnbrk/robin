@@ -308,7 +308,7 @@ Option B: Laptop with SoundSwitch + Control One
 - Martin THRILL Vertical Fogger: https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE
 - Cameo Nanobeam 600: https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600
 - BeamZ LCB244 LED Bar: https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/
-- BeamZ S1500LED Fog Machine: https://www.maxiaxi.com/beamz-s1500led-rookmachine-met-dmx-en-led-s-1500-watt/
+- BeamZ S1500LED Smoke Machine: https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/
 - Sennheiser XS 1: https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon
 - Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
   - ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
