@@ -32,9 +32,11 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Lighting:
     - 6x Showtec Phantom 65 Spot
     - 2x Cameo Nanobeam 600
+    - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
     - 3x BeamZ LCB244 LED Bars
     - 1x Martin THRILL Vertical Fogger
     - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
+    - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (integrated DMX)
 - Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
 - Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
@@ -48,22 +50,49 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Media Players: 2x Denon DJ SC5000M Prime (motorized platters)
 - PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
 - Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required)
+- Utility Mixer/USB Audio: Behringer XENYX 1204USB (for mic routing, recording, or additional sources)
+- Headphones: Pioneer DJ HDJ-X10 (Black)
 
 #### Lighting Fixtures
 - Moving Head Spots: 6x Showtec Phantom 65 Spot (65W LED), 16-bit pan/tilt, gobo + color wheel, 8–16 channels (mode dependent)
 - Moving Beam Heads: 2x Cameo Nanobeam 600 (beam), 8–16 channels (mode dependent)
+- Moving Wash Heads: 2x Showtec Shark Zoom Wash One RGBW LED (motorized zoom wash), 8–16 channels (mode dependent)
 - LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
 - Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
  - Fog: 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs), use manufacturer-recommended fluid
+ - Effects Bars: 2x ADJ Sweeper Beam Quad LED (RGBW, multi-mode including pixel control)
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
 #### Control and Rigging
 - DMX Interface: SoundSwitch Control One (integrated dual DMX outputs)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
+- Cases: 2x flight cases for Showtec moving heads
 
 Additional control hardware:
 - SoundSwitch Control One USB hardware for hands-on control of Autoloops, Static Looks, Strobe/Blinder, Smoke, Blackout, and next/previous scene selection.
+
+---
+
+### Kit Contents (What You Receive)
+- Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
+- PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
+- Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
+- Utility: Behringer XENYX 1204USB (USB mixer)
+- Lighting:
+  - 6x Showtec Phantom 65 Spot
+  - 2x Cameo Nanobeam 600
+  - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
+  - 3x BeamZ LCB244 LED Bars
+  - 1x Martin THRILL Vertical Fogger
+  - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
+  - 2x ADJ Sweeper Beam Quad LED
+- Control: SoundSwitch Control One (USB)
+- Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
+- Cases: 2x flight cases for Showtec moving heads
+ - Headphones: Pioneer DJ HDJ-X10 (Black)
+
+If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
 ---
 
@@ -134,24 +163,7 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 
 ---
 
-## Kit Contents (What You Receive)
-- Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
-- PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
-- Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
-- Lighting:
-  - 6x Showtec Phantom 65 Spot
-  - 2x Cameo Nanobeam 600
-  - 3x BeamZ LCB244 LED Bars
-  - 1x Martin THRILL Vertical Fogger
-  - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
-- Control: SoundSwitch Control One (USB)
-- Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
-
-If any item is missing or damaged, stop and contact the equipment provider before proceeding.
-
----
-
-## How to Run the Rig (Step-by-Step)
+### How to Run the Rig (Step-by-Step)
 
 ### 1) Pre‑Event Preparation
 1. Prepare the SM7dB and confirm phantom power (if using built-in preamp) on the mixer/interface.
@@ -175,6 +187,10 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 4. Connect microphone(s): SM7dB via XLR to mixer input (enable phantom if using built-in preamp); XS 1 via XLR (no phantom required).
 5. Power on sequence: controller → subs → tops → booth monitors.
 6. Set initial gains: controller master at 0 dB, channel gains to unity, subs/tops input gains noon; limiters on.
+
+Using XENYX 1204USB (optional):
+- Route mics into XENYX channels; send XENYX main outs to X1850 line inputs (L/R) for FOH.
+- Or use XENYX USB to record the event on a laptop; set the USB routing per the manual.
 
 Bose F1 wiring (recommended):
 - Connect X1850/Controller Master L/R to Bose F1 Subwoofer L/R inputs.
@@ -240,15 +256,15 @@ Option B: Laptop with SoundSwitch + Control One
 ---
 
 ## Packing Checklist (Return in Good Order)
-- Controller + PSU, USB engine drive
-- 2x tops, 1–2x subs, 2x booth monitors
-- 2x moving heads, 8x PARs, 2x LED bars, 2x strobe/blinders, hazer, fog
-- DMX interface or wireless kit, 2x DMX terminators
-- Audio cables: XLR, TRS, RCA as listed
-- DMX cables: long, medium, short bundles
-- Power: extensions, IEC/PowerCON, power strips with RCD
-- Clamps, safety bonds, tape, ties, tools
-- Microphones (wired + wireless), spare batteries
+- X1850 + 2x SC5000M flight case + PSU, USB engine drive
+- 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
+- 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 2x Showtec Shark Zoom Wash One RGBW LED, 3x BeamZ LCB244 LED Bars, 2x ADJ Sweeper Beam Quad LED, 1x Martin THRILL Vertical Fogger, 1x BeamZ S1500LED
+- SoundSwitch Control One, 2x DMX terminators
+- Cables: XLR, DMX, power as required
+- Truss: 2x 200 x 30 cm with sleeves and plates
+- Cases: 2x flight cases for Showtec moving heads
+- Microphones: Shure SM7dB, Sennheiser XS 1
+ - Headphones: Pioneer DJ HDJ-X10 (Black)
 
 ---
 
@@ -266,3 +282,7 @@ Option B: Laptop with SoundSwitch + Control One
 - BeamZ S1500LED Fog Machine: https://www.maxiaxi.com/beamz-s1500led-rookmachine-met-dmx-en-led-s-1500-watt/
 - Sennheiser XS 1: https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon
 - Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
+- ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
+- Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
+- Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
+- Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
