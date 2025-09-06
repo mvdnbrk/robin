@@ -81,13 +81,13 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Audio: 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
 - Lighting:
     - 6x Showtec Phantom 65 Spot
-    - 2x Cameo Nanobeam 600
-    - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
-    - 3x BeamZ LCB244 LED Bars
+    - 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600)
+    - 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) RGBW LED moving heads
+    - 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars
     - 2x [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/)
-    - 1x Martin THRILL Vertical Fogger
-    - 1x BeamZ S1500LED Smoke Machine (1500W, 9x 3W RGB; trigger via wired remote or DMX)
-    - 2x ADJ Sweeper Beam Quad LED
+    - 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE)
+    - 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) (1500W, 9x 3W RGB; trigger via wired remote or DMX)
+    - 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led)
 - Control: SoundSwitch Control One (integrated DMX)
 - Storage: SC5000M includes a 1 TB internal drive for the Engine DJ music library
 - Network: Netgear GS108 8‑port Gigabit switch linking X1850 and SC5000M players (and laptop if required)
@@ -114,24 +114,24 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
   |------|---------|
   | Mixer | Denon DJ X1850 Prime |
   | Media Players | 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library |
-  | PA | 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active) |
-  | Microphones | 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required); 2x mic windscreen (black) |
-  | Utility Mixer/USB Audio | Behringer XENYX 1204USB (for mic routing, recording, or additional sources) |
-  | Headphones | Pioneer DJ HDJ-X10 (Black) |
+  | PA | 2x [Bose F1 Model 812 Flex Array](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) (active) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief) (active) |
+  | Microphones | 1x [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) dynamic (XLR; no phantom required); 2x mic windscreen (black) |
+  | Utility Mixer/USB Audio | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (for mic routing, recording, or additional sources) |
+  | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
 
 #### Lighting Fixtures
   Lighting Fixtures (Summary Table)
 
   | Fixture | Qty |
   |---------|-----|
-  | Showtec Phantom 65 Spot | 6 |
-  | Cameo Nanobeam 600 | 2 |
-  | Showtec Shark Zoom Wash One | 2 |
-  | BeamZ LCB244 LED Bar | 3 |
+  | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 6 |
+  | [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600) | 2 |
+  | [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) | 2 |
+  | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 3 |
   | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 2 |
-  | ADJ Sweeper Beam Quad LED | 2 |
-  | Martin THRILL Vertical Fogger | 1 |
-  | BeamZ S1500LED Smoke Machine | 1 |
+  | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 2 |
+  | [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE) | 1 |
+  | [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) | 1 |
 
   Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
@@ -152,10 +152,10 @@ Additional control hardware:
   | Item | Qty |
   |------|-----|
   | Mic windscreen (black) | 2 |
-  | Elgato Wave Mic Arm High Rise | 1 |
-  | XVive P1 Portable Phantom Power Supply | 1 |
+  | [Elgato Wave Mic Arm High Rise](https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm) | 1 |
+  | [XVive P1 Portable Phantom Power Supply](https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm) | 1 |
   | TritonAudio FetHead | 1 |
-  | ACT USB-C 3-port hub with Ethernet | 1 |
+  | [ACT USB-C 3-port hub with Ethernet](https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html) | 1 |
   | JACKMEND Laser Distance Meter (100 m) | 1 |
   | Proster RD60 EMF Detector | 1 |
   | Showgear clamp for moving head | 4 |
