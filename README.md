@@ -175,6 +175,7 @@ Additional control hardware:
 | Audio | 3.5 mm TRS male to dual 6.35 mm TS male Y-cable | — | 1 | — |
 | Audio | 6.35 mm (1/4") jack male-to-male | 6 m | 2 | Black |
 | Audio | Devine XLR male-to-female | 1.5 m | 10 | Black |
+| Audio | Devine XLR male-to-male | 1.5 m | 1 | Black |
 | Audio | Devine XLR male-to-female | 10.0 m | 1 | Black |
 | Audio | RCA (tulip) male-to-male stereo cable | 5 m | 1 | Blue |
 | Audio | RCA (tulip) to 3.5 mm TRS jack | 1 m | 1 | — |
