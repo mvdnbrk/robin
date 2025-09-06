@@ -116,6 +116,17 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Headphones: Pioneer DJ HDJ-X10 (Black)
 
 #### Lighting Fixtures
+  Lighting Fixtures (Summary Table)
+  
+  | Fixture | Qty |
+  |---------|-----|
+  | Showtec Phantom 65 Spot | 6 |
+  | Cameo Nanobeam 600 | 2 |
+  | Showtec Shark Zoom Wash One | 2 |
+  | BeamZ LCB244 LED Bar | 3 |
+  | ADJ Sweeper Beam Quad LED | 2 |
+  | Martin THRILL Vertical Fogger | 1 |
+  | BeamZ S1500LED Smoke Machine | 1 |
 - Moving Head Spots: 6x Showtec Phantom 65 Spot (65W LED), 16-bit pan/tilt, gobo + color wheel, 8–16 channels (mode dependent)
 - Moving Beam Heads: 2x Cameo Nanobeam 600 (beam), 8–16 channels (mode dependent)
 - Moving Wash Heads: 2x Showtec Shark Zoom Wash One RGBW LED (motorized zoom wash), 8–16 channels (mode dependent)
