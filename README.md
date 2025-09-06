@@ -172,7 +172,6 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 2x sssnake XLR male-to-female cable, 0.5 m, black
 - 2x PowerCON male-to-female power cable, 3 m
 - 2x sssnake XLR male-to-female cable, 5.0 m, black
-- 1x Brennenstuhl IP44 extension cable, black, Euro, 5 m
 - 1x RCA (tulip) to 3.5 mm TRS jack cable, 1 m
 - 1x 3.5 mm jack to Lightning adapter
 - 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
@@ -190,6 +189,36 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 1x USB-C to 3.5 mm TRS (female) audio adapter
 - 1x 3.5 mm TRS (mini-jack) male to dual 6.35 mm TS (1/4") male Y-cable
 - 1x USB 2.0 Type-B (printer) to USB-A cable, blue, 1.8 m — for Denon DJ firmware updates/library sync
+
+#### Cables Table (Summary)
+| Type | Description | Length | Qty | Color/Notes |
+|------|-------------|--------|-----|-------------|
+| Audio | RCA (tulip) male-to-male stereo cable | 5 m | 1 | Blue |
+| Audio | Devine XLR male-to-female | 1.5 m | 2 | Black |
+| Audio | sssnake XLR male-to-female | 0.5 m | 2 | Black |
+| Audio | sssnake XLR male-to-female | 5.0 m | 2 | Black |
+| Audio | 6.35 mm (1/4") jack male-to-male | 6 m | 2 | Black |
+| Audio | RCA (tulip) to 3.5 mm TRS jack | 1 m | 1 | — |
+| Audio | 3.5 mm TRS male to dual 6.35 mm TS male Y-cable | — | 1 | — |
+| Adapters | 3.5 mm jack to Lightning adapter | — | 1 | — |
+| Adapters | USB-C to 3.5 mm TRS (female) audio adapter | — | 1 | — |
+| Network | Ethernet patch cable (Cat5e/Cat6) | 1 m | 3 | White |
+| DMX | Devine DMX cable | 10 m | 1 | — |
+| Power | PowerCON male-to-female | 3 m | 2 | — |
+| Power | PowerCON male-to-female | 1 m | 2 | — |
+| Power | PowerCON male-to-female | 0.7 m | 1 | — |
+| Power | EU (Schuko) plug to PowerCON | 1.0 m | 1 | — |
+| Power | EU (Schuko) plug to PowerCON | 1.4 m | 1 | — |
+| Power | EU (Schuko) plug to PowerCON | 1.5 m | 1 | — |
+| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 1 | Black |
+| Power | DAP 90446 IEC C14 to IEC C13 | 0.9 m | 3 | 3×1.5 mm² |
+| Power | DAP 90446 IEC C14 to IEC C13 | 1.6 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 1.2 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 1.4 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 1.5 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 1.9 m | 1 | 3×1.5 mm² |
+| Power | Procab PSC104 power strip (4-way, EU/Schuko) | 1.5 m | 1 | Corded strip |
+| USB | USB 2.0 Type-B to USB-A cable (blue) | 1.8 m | 1 | Denon DJ firmware updates/library sync |
 
 ---
 
