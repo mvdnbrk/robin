@@ -167,7 +167,7 @@ Additional control hardware:
 ---
 
 ### Cabling and Power
-#### Cables Table (Summary)
+
 | Type | Description | Length | Qty | Color/Notes |
 |------|-------------|--------|-----|-------------|
 | Adapters | 3.5 mm jack to Lightning adapter | — | 1 | — |
