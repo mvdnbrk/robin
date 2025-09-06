@@ -15,7 +15,7 @@
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
 | Power      | 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A |
 | Truss      | 2x truss sections 200 x 30 cm with sleeves and top/bottom plates |
-| Cases      | 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer |
+| Cases      | 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm |
 
 ### Equipment Counts (Quick Check)
 
@@ -42,6 +42,8 @@
 | Truss 200 x 30 cm | 2 |
 | Flight case (Showtec heads) | 2 |
 | Flight case (Behringer XENYX) | 1 |
+| Flight case (INNOX, 60×35×40 cm) | 1 |
+| Flight case (small, 40×25×10 cm) | 1 |
 | DMX terminator (120 Ω) | 1 |
 | [AKAI APC40 MKII](https://www.akaipro.com/apc40-mkii) | 1 |
 | Elgato Wave Mic Arm High Rise | 1 |
@@ -136,7 +138,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 #### Control and Rigging
 - DMX Interface: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (integrated dual DMX outputs)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
-- Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer
+- Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm
 - Network: [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch
 - Power: 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A
 
@@ -380,7 +382,7 @@ Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one
 - [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one), 1x DMX terminator
 - Cables: see Cables List section
 - Truss: 2x 200 x 30 cm with sleeves and plates
-- Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer
+- Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm
 - Microphones: [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon)
  - Headphones: [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/)
 - [Netgear GS108 Gigabit Switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/)
