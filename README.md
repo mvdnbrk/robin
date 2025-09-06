@@ -184,16 +184,16 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 | Power | PowerCON male-to-female | 1 m | 2 | — |
 | Power | PowerCON male-to-female | 0.7 m | 1 | — |
 | Power | EU (Schuko) plug to PowerCON | 1.0 m | 1 | — |
-| Power | EU (Schuko) plug to PowerCON | 1.4 m | 1 | — |
-| Power | EU (Schuko) plug to PowerCON | 1.5 m | 1 | — |
+| Power | EU (Schuko) plug to PowerCON | 1.5 m | 3 | — |
 | Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 2  | Black |
 | Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 10 m | 1  | Black |
 | Power | DAP 90446 IEC C14 to IEC C13 | 0.9 m | 3 | 3×1.5 mm² |
 | Power | DAP 90446 IEC C14 to IEC C13 | 1.6 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 1.0 m | 2 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 1.2 m | 1 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 1.4 m | 1 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 1.5 m | 1 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 1.9 m | 1 | 3×1.5 mm² |
+| Power | DAP 92022 Schuko male to IEC C13 | 2.0 m | 2 | 3×1.5 mm² |
 | Power | Procab PSC104 power strip (4-way, EU/Schuko) | 1.5 m | 1 | Corded strip |
 | USB | USB 2.0 Type-B to USB-A cable (blue) | 1.8 m | 1 | Denon DJ firmware updates/library sync |
 
