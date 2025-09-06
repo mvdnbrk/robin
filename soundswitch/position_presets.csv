@@ -1,0 +1,28 @@
+PresetName,FixtureGroup,Description,Notes
+Front Center,Phantom 65 Spots,Both heads centered front at eye-level tilt,Use for vocals/speeches
+Front Split L/R,Phantom 65 Spots,One left to front-left, one right to front-right,Wide face coverage
+Back Fan Wide,Phantom 65 Spots,Back wall fan with wide pan and medium tilt,Ambient texture
+Back Fan Tight,Phantom 65 Spots,Back wall fan with tight pan and higher tilt,Sharper lines
+Audience Sweep L→R,Phantom 65 Spots,Slow audience sweep from stage-left to stage-right,Automate with movement macro
+Audience Sweep R→L,Phantom 65 Spots,Slow audience sweep from stage-right to stage-left,Automate with movement macro
+Ceiling/Mirrorball,Phantom 65 Spots,Beams aimed at ceiling center/mirrorball,Use with prism/gobo for sparkle
+Stage Corners UL,Phantom 65 Spots,Upper-left corner focus,For accents
+Stage Corners UR,Phantom 65 Spots,Upper-right corner focus,For accents
+Stage Corners DL,Phantom 65 Spots,Down-left corner focus,For accents
+Stage Corners DR,Phantom 65 Spots,Down-right corner focus,For accents
+Low Tilt Haze Cut,Phantom 65 Spots,Low tilt through haze above crowd,Wide frost optional
+Far Wall Texture,Phantom 65 Spots,Far wall projection center,Use rotating gobo + slow
+Center Spot (Speech),Phantom 65 Spots,Single or pair centered for speech,CTO/Amber + sharp focus
+DJ Booth Highlight,Phantom 65 Spots,Spotlights on DJ booth/performer,Use soft frost for camera
+Dancefloor Center,Phantom 65 Spots,Beams converging at floor center,High energy moments
+Entrance Ping,Phantom 65 Spots,Quick ping to venue entrance,For announcements
+Back X Cross,Phantom 65 Spots,Crossed beams behind performer,Photo-friendly
+Front Fan Wide,Shark Zoom Wash One,Wide fan to audience low tilt,Softer wash for dinner
+Front Fan Tight,Shark Zoom Wash One,Tight fan higher tilt,Energy looks
+Back Wash Halo,Shark Zoom Wash One,Back halo on performer,Low intensity
+Dancefloor Wash,Shark Zoom Wash One,General floor coverage,Medium zoom
+Beam Center,Nanobeam 600,Center tight beams upwards,Use for build-ups
+Beam Fan Wide,Nanobeam 600,Wide beam fan to audience,Pair with strobe
+Beam Sweep L→R,Nanobeam 600,Sweep left to right,Narrow zoom
+Beam Sweep R→L,Nanobeam 600,Sweep right to left,Narrow zoom
+Backline Accent,Nanobeam 600,Accents for backline/branding,Static
