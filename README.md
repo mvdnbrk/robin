@@ -222,36 +222,39 @@ Note: These cables are already in possession and will be added later with full s
 ### DMX Address Plan (SoundSwitch)
 
 Assumed modes unless specified:
-- Movers (spots/beams/washes): 16-channel mode
-- LED bars: 16-channel mode (or closest standard)
-- ADJ Sweepers: 16-channel mode (use basic/pixel mode as preferred)
-- Foggers: 2-channel mode
- - Blinders: 2-channel mode
+- Showtec Phantom 65 Spot: 13-channel mode
+- Cameo Nanobeam 600: 14-channel mode
+- Showtec Shark Zoom Wash One: 15-channel mode
+- BeamZ LCB244 LED Bar: 58-channel mode
+- ADJ Sweeper Beam Quad LED: 39-channel mode
+- Martin THRILL Vertical Fogger: 7-channel mode
+- BeamZ S1500LED Smoke Machine: 7-channel mode
+- BeamZ SB200 LED Stage Blinder: 6-channel mode
 
 | # | Fixture | Qty | Mode | Ch/Unit | Universe | Start Address(es) |
 |---|---------|-----|------|---------|----------|-------------------|
-| 1 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 001 |
-| 2 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 017 |
-| 3 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 033 |
-| 4 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 049 |
-| 5 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 065 |
-| 6 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 16ch | 16 | 1 | 081 |
-| 7 | [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600) | 1 | 16ch | 16 | 1 | 097 |
-| 8 | [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600) | 1 | 16ch | 16 | 1 | 113 |
-| 9 | [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) | 1 | 16ch | 16 | 1 | 129 |
-| 10 | [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) | 1 | 16ch | 16 | 1 | 145 |
-| 11 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 16ch | 16 | 1 | 161 |
-| 12 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 16ch | 16 | 1 | 177 |
-| 13 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 16ch | 16 | 1 | 193 |
-| 14 | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 1 | 16ch | 16 | 1 | 209 |
-| 15 | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 1 | 16ch | 16 | 1 | 225 |
-| 16 | [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE) | 1 | 2ch | 2 | 1 | 241 |
-| 17 | [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) | 1 | 2ch | 2 | 1 | 243 |
-| 18 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 2ch | 2 | 1 | 245 |
-| 19 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 2ch | 2 | 1 | 247 |
+| 1 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 001 |
+| 2 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 014 |
+| 3 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 027 |
+| 4 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 040 |
+| 5 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 053 |
+| 6 | [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead) | 1 | 13ch | 13 | 1 | 066 |
+| 7 | [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600) | 1 | 14ch | 14 | 1 | 079 |
+| 8 | [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600) | 1 | 14ch | 14 | 1 | 093 |
+| 9 | [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) | 1 | 15ch | 15 | 1 | 107 |
+| 10 | [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead) | 1 | 15ch | 15 | 1 | 122 |
+| 11 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 58ch | 58 | 1 | 137 |
+| 12 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 58ch | 58 | 1 | 195 |
+| 13 | [BeamZ LCB244 LED Bar](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) | 1 | 58ch | 58 | 1 | 253 |
+| 14 | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 1 | 39ch | 39 | 1 | 311 |
+| 15 | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 1 | 39ch | 39 | 1 | 350 |
+| 16 | [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE) | 1 | 7ch | 7 | 1 | 389 |
+| 17 | [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) | 1 | 7ch | 7 | 1 | 396 |
+| 18 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 6ch | 6 | 1 | 403 |
+| 19 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 6ch | 6 | 1 | 409 |
 
 Notes:
-- This plan fits in Universe 1 (addresses 001–248 used). Leave remaining addresses for future expansion.
+- This plan fits in Universe 1 (addresses 001–414 used). Leave remaining addresses for future expansion.
 - If you select different DMX modes (e.g., extended/pixel modes), update channel counts and shift subsequent start addresses accordingly.
 - Terminate the last fixture with a 120 Ω DMX terminator.
 
