@@ -38,6 +38,8 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
     - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
     - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (integrated DMX)
+- Storage: SC5000M includes a 1 TB internal drive for the Engine DJ music library
+- Network: Netgear GS108 8‑port Gigabit switch linking X1850 and SC5000M players (and laptop if required)
 - Power: Dedicated power distribution with surge/RCD, proper gauge cables, tidy cable runs
 - Truss: 2x truss sections 200 x 30 cm with cover sleeves and top/bottom plates
 
@@ -47,7 +49,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 #### DJ and Audio
 - Mixer: Denon DJ X1850 Prime
-- Media Players: 2x Denon DJ SC5000M Prime (motorized platters)
+- Media Players: 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library
 - PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
 - Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required)
 - Utility Mixer/USB Audio: Behringer XENYX 1204USB (for mic routing, recording, or additional sources)
@@ -68,6 +70,7 @@ Safety note: Verify local regulations for haze/fog and laser use. Avoid audience
 - DMX Interface: SoundSwitch Control One (integrated dual DMX outputs)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
 - Cases: 2x flight cases for Showtec moving heads
+- Network: Netgear GS108 8‑port Gigabit switch
 
 Additional control hardware:
 - SoundSwitch Control One USB hardware for hands-on control of Autoloops, Static Looks, Strobe/Blinder, Smoke, Blackout, and next/previous scene selection.
@@ -88,9 +91,11 @@ Additional control hardware:
   - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
   - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (USB)
+- Network: Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 - Cases: 2x flight cases for Showtec moving heads
  - Headphones: Pioneer DJ HDJ-X10 (Black)
+ - Storage: 1 TB internal drive installed in SC5000M for onboard library
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
@@ -111,8 +116,8 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 #### DMX Cables (110–120 Ω, not audio XLR)
 - 3-pin or 5-pin based on fixtures
   - 2x 10 m main runs
-  - 10x 5 m fixture links
-  - 6x 1–2 m short patch leads
+  - 15x 5 m fixture links
+  - 8x 1–2 m short patch leads
 - DMX Terminators
   - 2x 120 Ω terminators for end-of-line
 
@@ -130,6 +135,20 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 
 Cable management: Velcro ties, cable ramps for walkways, gaffer tape (residue-free), and labeled ends.
 
+#### Ethernet (Network)
+- Cat5e/Cat6 patch cables
+  - 3x 1–3 m (X1850 ↔ GS108, SC5000M #1 ↔ GS108, SC5000M #2 ↔ GS108)
+  - 1x 3–5 m (optional laptop ↔ GS108, if using network features)
+
+---
+
+### Network Connectivity
+- Place the Netgear GS108 switch near the X1850.
+- Connect X1850 Ethernet to GS108 (any port).
+- Connect both SC5000M players’ Ethernet to GS108.
+- Optional: connect a laptop to GS108 for Engine DJ Desktop/updates if needed.
+- Use Cat5e/Cat6 cables. No special IP setup is required; devices auto‑link.
+
 ---
 
 ### DMX Layout (Example)
@@ -143,10 +162,15 @@ Cable management: Velcro ties, cable ramps for walkways, gaffer tape (residue-fr
   - Moving Head 6: start 081 (16 ch)
   - Moving Beam 1: start 097 (16 ch)
   - Moving Beam 2: start 113 (16 ch)
-  - LED Bar 1: start 129 (16 ch)
-  - LED Bar 2: start 145 (16 ch)
-  - LED Bar 3: start 161 (16 ch)
-  - Fog: start 177 (2 ch)
+  - Moving Wash 1: start 129 (16 ch)
+  - Moving Wash 2: start 145 (16 ch)
+  - LED Bar 1: start 161 (16 ch)
+  - LED Bar 2: start 177 (16 ch)
+  - LED Bar 3: start 193 (16 ch)
+  - Effects Bar 1 (Sweeper): start 209 (16 ch)
+  - Effects Bar 2 (Sweeper): start 225 (16 ch)
+  - Fog 1 (Martin THRILL): start 241 (2 ch)
+  - Fog 2 (BeamZ S1500LED): start 243 (2 ch)
 - Terminate the last fixture in the chain with a 120 Ω terminator.
 
 Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows from track metadata and BPM, and map fixtures via Fixture Profiles. Ensure all fixture profiles exist in the SoundSwitch library.
@@ -169,7 +193,7 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 1. Prepare the SM7dB and confirm phantom power (if using built-in preamp) on the mixer/interface.
 2. Prepare the Sennheiser XS 1 and connect via XLR.
 3. Update Engine OS on the controller and Engine DJ Desktop if needed.
-4. Export your Engine DJ library to the performance USB/drive. Verify playlists load.
+4. Sync your Engine DJ library to the SC5000M’s internal 1 TB drive (or to your performance USB) and verify playlists load.
 5. Open SoundSwitch and verify the venue/light show project. Export show data to the Engine drive if using Engine Lighting.
 6. Label cable bundles by length (short/medium/long) and fixture groups.
 
@@ -179,6 +203,7 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 3. Position truss to left/right of booth. Ensure overhead clearance; secure fixtures with safety bonds.
 4. Run a dedicated power run to audio and a separate one to lighting where possible to reduce noise.
 5. Use RCD/RCBO protection. Keep cables along walls; cross walkways with cable ramps.
+6. Place GS108 switch near the mixer and connect Ethernet to X1850 and SC5000M units (optional laptop to GS108).
 
 ### 3) Build Audio
 1. Place subs and tops. Power off everything.
@@ -265,6 +290,7 @@ Option B: Laptop with SoundSwitch + Control One
 - Cases: 2x flight cases for Showtec moving heads
 - Microphones: Shure SM7dB, Sennheiser XS 1
  - Headphones: Pioneer DJ HDJ-X10 (Black)
+- Netgear GS108 Gigabit Switch
 
 ---
 
@@ -282,7 +308,8 @@ Option B: Laptop with SoundSwitch + Control One
 - BeamZ S1500LED Fog Machine: https://www.maxiaxi.com/beamz-s1500led-rookmachine-met-dmx-en-led-s-1500-watt/
 - Sennheiser XS 1: https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon
 - Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
-- ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
-- Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
+  - ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
+  - Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
+  - Netgear GS108 Gigabit Switch: https://www.netgear.com/business/wired/switches/unmanaged/gs108/
 - Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
 - Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
