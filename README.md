@@ -390,6 +390,7 @@ Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one
 ### 7) During the Event
 - Keep controller master around 0 dB; use channel faders and EQ for mixing.
 - Use Booth level to control your monitor volume independently.
+ - Consider assigning a dedicated light jockey to adjust lighting in real time: lower intensity for quiet moments, ramp during build‑ups, and tap accents/"white light" hits at peak (arousal) moments. This preserves crowd comfort while maximizing impact.
 - For lighting, toggle between Autoloops/Static Scenes for slow songs vs energetic looks for peak moments.
 - Use blackout for speeches or as needed; avoid excessive strobe.
 
