@@ -161,6 +161,9 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 9) 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
 - 10) 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
 - 11) 2x Ethernet patch cable (Cat5e/Cat6), 1 m, white
+- 12) 1x EU (Schuko) plug to PowerCON cable, 1.0 m
+- 13) 1x EU (Schuko) plug to PowerCON cable, 1.4 m
+- 14) 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
 
 ---
 
