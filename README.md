@@ -167,6 +167,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 12) 1x EU (Schuko) plug to PowerCON cable, 1.0 m
 - 13) 1x EU (Schuko) plug to PowerCON cable, 1.4 m
 - 14) 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
+- 15) 4x DAP 92022 Schuko male to IEC C13 power cable, 3×1.5 mm² (lengths: 120 cm, 140 cm, 150 cm, 190 cm)
 - 16) 1x Devine DMX cable, 10 m
 
 ---
