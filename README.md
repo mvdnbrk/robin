@@ -329,17 +329,19 @@ Option A: Engine Lighting (no laptop during show)
 
 Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) requires a laptop running SoundSwitch software.
 
-Option B: Laptop with SoundSwitch + Control One
-- Connect Control One to the laptop via USB. In SoundSwitch, verify Control One is detected (and set as the DMX interface if using its outputs).
- - If not using Control One DMX outputs, select your USB DMX interface in preferences.
-- Open your show project, confirm fixtures are patched/profiled, and addresses match hardware.
-- Use Control One pads/encoders:
+ Option B: Laptop with SoundSwitch + Control One
+ - Connect Control One to the laptop via USB. In SoundSwitch, verify Control One is detected (and set as the DMX interface if using its outputs).
+  - If not using Control One DMX outputs, select your USB DMX interface in preferences.
+ - Open your show project, confirm fixtures are patched/profiled, and addresses match hardware.
+ - Use Control One pads/encoders:
   - Autoloops: trigger and adjust intensity/color/movement banks
   - Static Looks: select static scenes for dinner/speeches
   - Strobe/Blinder/Smoke: dedicated buttons
   - Blackout: master blackout toggle
   - Next/Previous: step through programmed looks
-- Start Autoloops or trigger scripted shows. Verify output on fixtures.
+ - Start Autoloops or trigger scripted shows. Verify output on fixtures.
+
+  Note: Fog/Smoke is intentionally not included in programmed looks. Trigger smoke manually using the Control One “Smoke” button so you maintain visual control of haze density and prevent overfilling smaller rooms.
 
 ### 6) Soundcheck
 1. Play a reference track at performance level. Adjust sub/top input gains and crossover as needed.
