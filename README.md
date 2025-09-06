@@ -189,7 +189,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 1x EU (Schuko) plug to PowerCON cable, 1.5 m
 - 1x USB-C to 3.5 mm TRS (female) audio adapter
 - 1x 3.5 mm TRS (mini-jack) male to dual 6.35 mm TS (1/4") male Y-cable
-- 1x USB 2.0 Type-B (printer) to USB-A cable, blue — for Denon DJ firmware updates/library sync
+- 1x USB 2.0 Type-B (printer) to USB-A cable, blue, 1.8 m — for Denon DJ firmware updates/library sync
 
 ---
 
