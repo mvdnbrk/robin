@@ -204,6 +204,11 @@ Additional control hardware:
 | USB | USB 2.0 Type-B to USB-A cable (blue) | 1.8 m | 1 | Denon DJ firmware updates/library sync |
 | USB | USB 2.0 Type-A to USB-B cable (printer) | — | 1 | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) connection |
 
+Note: These cables are already in possession and will be added later with full specifications to the inventory cables table:
+- 7x additional DMX patch cables (lengths TBD for fixture daisy-chain)
+- 1x EU (Schuko) to PowerCON power cable
+- 2x additional PowerCON male-to-female link cables
+
 ---
 
 ### Network Connectivity
