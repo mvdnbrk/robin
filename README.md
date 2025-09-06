@@ -203,6 +203,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 | Power | PowerCON male-to-female | 3 m | 2 | — |
 | Power | Procab PSC104 power strip (4-way, EU/Schuko) | 1.5 m | 1 | Corded strip |
 | USB | USB 2.0 Type-B to USB-A cable (blue) | 1.8 m | 1 | Denon DJ firmware updates/library sync |
+| USB | USB 2.0 Type-A to USB-B cable (printer) | — | 1 | SoundSwitch Control One connection |
 
 ---
 
