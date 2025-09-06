@@ -12,6 +12,7 @@ check for updates when published
 | Microphones | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) (wired), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) (wired); 2x mic windscreen (black) |
 | Utility    | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (USB mixer) |
 | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
+| Accessories | [Elgato Wave Mic Arm High Rise](https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm); [XVive P1 Portable Phantom Power Supply](https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm) |
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
 | Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); 1x DMX terminator |
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
@@ -45,6 +46,8 @@ check for updates when published
 | Flight case (Showtec heads) | 2 |
 | Flight case (Behringer XENYX) | 1 |
 | DMX terminator (120 Ω) | 1 |
+| Elgato Wave Mic Arm High Rise | 1 |
+| XVive P1 Portable Phantom Power Supply | 1 |
 
 ## DJ + Lighting Setup
 
@@ -125,7 +128,7 @@ Additional control hardware:
 - Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
 - Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
- - Accessories: 2x mic windscreen (black)
+ - Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply
 - Utility: Behringer XENYX 1204USB (USB mixer)
 - Lighting:
   - 6x Showtec Phantom 65 Spot
@@ -164,6 +167,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 12) 1x EU (Schuko) plug to PowerCON cable, 1.0 m
 - 13) 1x EU (Schuko) plug to PowerCON cable, 1.4 m
 - 14) 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
+- 16) 1x Devine DMX cable, 10 m
 
 ---
 
@@ -348,6 +352,8 @@ Option B: Laptop with SoundSwitch + Control One
   - ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
   - Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
   - Netgear GS108 Gigabit Switch: https://www.netgear.com/business/wired/switches/unmanaged/gs108/
+  - Elgato Wave Mic Arm High Rise: https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm
+  - XVive P1 Portable Phantom Power Supply: https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm
   - Innox RPD FR14S-FS-CB Power Distribution: https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ
 - Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
 - Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
