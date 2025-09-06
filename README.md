@@ -148,27 +148,7 @@ Additional control hardware:
 ---
 
 ### Kit Contents (What You Receive)
-- Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
-- PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
-- Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
- - Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply; TritonAudio FetHead; ACT USB-C 3-port hub with Ethernet; JACKMEND Laser Distance Meter (100 m); Proster RD60 EMF Detector
-- Utility: Behringer XENYX 1204USB (USB mixer)
-- Lighting:
-  - 6x Showtec Phantom 65 Spot
-  - 2x Cameo Nanobeam 600
-  - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
-  - 3x BeamZ LCB244 LED Bars
-  - 1x Martin THRILL Vertical Fogger (smoke machine)
-  - 1x BeamZ S1500LED Smoke Machine (1500W, 9x 3W RGB; trigger via wired remote or DMX)
-  - 2x ADJ Sweeper Beam Quad LED
-- Control: SoundSwitch Control One (USB)
- - DMX: 1x 120 Ω DMX terminator
-- Network: Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables
- - Power: 3x Innox RPD FR14S-FS-CB 19″ power distribution (Type F/CEE 7/4), overload protection 10 A
-- Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
-- Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
- - Headphones: Pioneer DJ HDJ-X10 (Black)
-- Storage: 1 TB internal drive installed in SC5000M for onboard library
+- Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply; TritonAudio FetHead; ACT USB-C 3-port hub with Ethernet; JACKMEND Laser Distance Meter (100 m); Proster RD60 EMF Detector
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
