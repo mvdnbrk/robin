@@ -9,7 +9,7 @@ check for updates when published
 |------------|-----------|
 | DJ Booth   | Denon DJ X1850 Prime + 2x SC5000M Prime (flight case), 1 TB internal drive in SC5000M |
 | PA         | 2x [Bose F1 Model 812](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief) |
-| Microphones | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) (wired), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) (wired) |
+| Microphones | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) (wired), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) (wired); 2x mic windscreen (black) |
 | Utility    | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (USB mixer) |
 | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
@@ -29,6 +29,7 @@ check for updates when published
 | Bose F1 Subwoofer | 2 |
 | Shure SM7dB | 1 |
 | Sennheiser XS 1 | 1 |
+| Mic windscreen (black) | 2 |
 | Behringer XENYX 1204USB | 1 |
 | Pioneer DJ HDJ-X10 | 1 |
 | Showtec Phantom 65 Spot | 6 |
@@ -93,7 +94,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Mixer: Denon DJ X1850 Prime
 - Media Players: 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library
 - PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
-- Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required)
+- Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required); 2x mic windscreen (black)
 - Utility Mixer/USB Audio: Behringer XENYX 1204USB (for mic routing, recording, or additional sources)
 - Headphones: Pioneer DJ HDJ-X10 (Black)
 
@@ -124,6 +125,7 @@ Additional control hardware:
 - Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
 - Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
+ - Accessories: 2x mic windscreen (black)
 - Utility: Behringer XENYX 1204USB (USB mixer)
 - Lighting:
   - 6x Showtec Phantom 65 Spot
