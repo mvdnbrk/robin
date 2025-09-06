@@ -7,7 +7,7 @@ check for updates when published
 
 | Category    | Equipment |
 |------------|-----------|
-| DJ Booth   | Denon DJ X1850 Prime + 2x SC5000M Prime (flight case), 1 TB internal drive in SC5000M |
+| DJ Booth   | [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) + 2x [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) (flight case), 1 TB internal drive in [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) |
 | PA         | 2x [Bose F1 Model 812](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief) |
 | Microphones | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) (wired), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) (wired); 2x mic windscreen (black) |
 | Utility    | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (USB mixer) |
@@ -24,8 +24,8 @@ check for updates when published
 
 | Item | Qty |
 |------|-----|
-| Denon DJ X1850 Prime | 1 |
-| Denon DJ SC5000M Prime | 2 |
+| [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) | 1 |
+| [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) | 2 |
 | [Bose F1 Model 812](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) | 2 |
 | [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief) | 2 |
 | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) | 1 |
@@ -77,7 +77,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ---
 
 ### System Overview
-- DJ Booth: Denon DJ X1850 Prime + 2x SC5000M Prime (flight case)
+- DJ Booth: [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) + 2x [SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) (flight case)
 - Audio: 2x [Bose F1 Model 812](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief)
 - Lighting:
     - 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead)
@@ -97,7 +97,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ---
 
 #### Prewired Flight Case (What’s Already Connected)
-- Inside the flight case, the Denon SC5000M players are linked to the X1850 via RCA (audio) and Denon Link (Ethernet) and the internal power harness is connected (3x plugs on one distro strip).
+- Inside the flight case, the [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) players are linked to the [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) via RCA (audio) and Denon Link (Ethernet) and the internal power harness is connected (3x plugs on one distro strip).
 - The [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) switch is mounted and connected to the players/mixer internally.
 - External connections you still need to make on-site:
   - Mains power to the flight case
@@ -112,8 +112,8 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
   | Item | Details |
   |------|---------|
-  | Mixer | Denon DJ X1850 Prime |
-  | Media Players | 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library |
+  | Mixer | [Denon DJ X1850 Prime](https://www.denondj.com/x1850%20prime-x1850primexus) |
+  | Media Players | 2x [Denon DJ SC5000M Prime](https://www.denondj.com/sc5000m%20prime-sc5000mprimexus) (motorized platters), with 1 TB internal drive installed for onboard library |
   | PA | 2x [Bose F1 Model 812 Flex Array](https://www.bax-shop.nl/actieve-fullrange/bose-f1-model-812) (active) + 2x [Bose F1 Subwoofer](https://www.bax-shop.nl/actieve-subwoofer/bose-f1-subwoofer-actief) (active) |
   | Microphones | 1x [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) dynamic (XLR; no phantom required); 2x mic windscreen (black) |
   | Utility Mixer/USB Audio | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (for mic routing, recording, or additional sources) |
