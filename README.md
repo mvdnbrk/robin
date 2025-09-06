@@ -169,24 +169,19 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 #### Cables Table (Summary)
 | Type | Description | Length | Qty | Color/Notes |
 |------|-------------|--------|-----|-------------|
-| Audio | RCA (tulip) male-to-male stereo cable | 5 m | 1 | Blue |
-| Audio | Devine XLR male-to-female | 1.5 m | 2 | Black |
-| Audio | sssnake XLR male-to-female | 0.5 m | 2 | Black |
-| Audio | sssnake XLR male-to-female | 5.0 m | 3 | Black |
-| Audio | sssnake XLR male-to-female | 6.0 m | 1 | Black |
-| Audio | sssnake XLR male-to-female | 3.0 m | 2 | Black |
-| Audio | 6.35 mm (1/4") jack male-to-male | 6 m | 2 | Black |
-| Audio | RCA (tulip) to 3.5 mm TRS jack | 1 m | 1 | — |
-| Audio | 3.5 mm TRS male to dual 6.35 mm TS male Y-cable | — | 1 | — |
 | Adapters | 3.5 mm jack to Lightning adapter | — | 1 | — |
 | Adapters | USB-C to 3.5 mm TRS (female) audio adapter | — | 1 | — |
-| Network | Ethernet patch cable (Cat5e/Cat6) | 1 m | 3 | White |
+| Audio | 3.5 mm TRS male to dual 6.35 mm TS male Y-cable | — | 1 | — |
+| Audio | 6.35 mm (1/4") jack male-to-male | 6 m | 2 | Black |
+| Audio | Devine XLR male-to-female | 1.5 m | 2 | Black |
+| Audio | RCA (tulip) male-to-male stereo cable | 5 m | 1 | Blue |
+| Audio | RCA (tulip) to 3.5 mm TRS jack | 1 m | 1 | — |
+| Audio | sssnake XLR male-to-female | 0.5 m | 2 | Black |
+| Audio | sssnake XLR male-to-female | 3.0 m | 2 | Black |
+| Audio | sssnake XLR male-to-female | 5.0 m | 3 | Black |
+| Audio | sssnake XLR male-to-female | 6.0 m | 1 | Black |
 | DMX | Devine DMX cable | 10 m | 1 | — |
-| Power | PowerCON male-to-female | 3 m | 2 | — |
-| Power | PowerCON male-to-female | 1 m | 2 | — |
-| Power | PowerCON male-to-female | 0.7 m | 1 | — |
-| Power | EU (Schuko) plug to PowerCON | 1.0 m | 1 | — |
-| Power | EU (Schuko) plug to PowerCON | 1.5 m | 3 | — |
+| Network | Ethernet patch cable (Cat5e/Cat6) | 1 m | 3 | White |
 | Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 2  | Black |
 | Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 10 m | 1  | Black |
 | Power | DAP 90446 IEC C14 to IEC C13 | 0.9 m | 3 | 3×1.5 mm² |
@@ -196,6 +191,9 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 | Power | DAP 92022 Schuko male to IEC C13 | 1.4 m | 1 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 1.5 m | 1 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 2.0 m | 2 | 3×1.5 mm² |
+| Power | PowerCON male-to-female | 0.7 m | 1 | — |
+| Power | PowerCON male-to-female | 1 m | 2 | — |
+| Power | PowerCON male-to-female | 3 m | 2 | — |
 | Power | Procab PSC104 power strip (4-way, EU/Schuko) | 1.5 m | 1 | Corded strip |
 | USB | USB 2.0 Type-B to USB-A cable (blue) | 1.8 m | 1 | Denon DJ firmware updates/library sync |
 
