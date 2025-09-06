@@ -221,6 +221,7 @@ Assumed modes unless specified:
 - LED bars: 16-channel mode (or closest standard)
 - ADJ Sweepers: 16-channel mode (use basic/pixel mode as preferred)
 - Foggers: 2-channel mode
+ - Blinders: 2-channel mode
 
 | # | Fixture | Qty | Mode | Ch/Unit | Universe | Start Address(es) |
 |---|---------|-----|------|---------|----------|-------------------|
@@ -241,9 +242,11 @@ Assumed modes unless specified:
 | 15 | [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led) | 1 | 16ch | 16 | 1 | 225 |
 | 16 | [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE) | 1 | 2ch | 2 | 1 | 241 |
 | 17 | [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) | 1 | 2ch | 2 | 1 | 243 |
+| 18 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 2ch | 2 | 1 | 245 |
+| 19 | [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/) | 1 | 2ch | 2 | 1 | 247 |
 
 Notes:
-- This plan fits in Universe 1 (addresses 001–244 used). Leave remaining addresses for future expansion.
+- This plan fits in Universe 1 (addresses 001–248 used). Leave remaining addresses for future expansion.
 - If you select different DMX modes (e.g., extended/pixel modes), update channel counts and shift subsequent start addresses accordingly.
 - Terminate the last fixture with a 120 Ω DMX terminator.
 
