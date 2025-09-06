@@ -154,6 +154,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 8) 1x 3.5 mm jack to Lightning adapter
 - 9) 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
 - 10) 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
+- 11) 2x Ethernet patch cable (Cat5e/Cat6), 1 m, white
 
 ---
 
