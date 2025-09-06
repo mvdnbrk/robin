@@ -110,8 +110,6 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 #### DJ and Audio
 
-  DJ and Audio (Summary Table)
-
   | Item | Details |
   |------|---------|
   | Mixer | Denon DJ X1850 Prime |
@@ -149,9 +147,7 @@ Additional control hardware:
 
 ---
 
-### Kit Contents (What You Receive)
-
-  Kit Contents — Accessories Only (Summary Table)
+### Kit Contents
 
   | Item | Qty |
   |------|-----|
