@@ -107,7 +107,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Moving Wash Heads: 2x Showtec Shark Zoom Wash One RGBW LED (motorized zoom wash), 8–16 channels (mode dependent)
 - LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
 - Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
- - Fog: 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs; trigger via wired remote or DMX), use manufacturer-recommended fluid
+ - Fog: 1x BeamZ S1500LED Smoke Machine (1500W, DMX + LEDs; trigger via wired remote or DMX), use manufacturer-recommended fluid
  - Effects Bars: 2x ADJ Sweeper Beam Quad LED (RGBW, multi-mode including pixel control)
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
@@ -185,7 +185,6 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 
 ---
 
-### DMX Layout (Example)
 ### DMX Address Plan (SoundSwitch)
 
 Assumed modes unless specified:
@@ -330,8 +329,8 @@ Option B: Laptop with SoundSwitch + Control One
 - X1850 + 2x SC5000M flight case + PSU, USB engine drive
 - 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
 - 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 2x Showtec Shark Zoom Wash One RGBW LED, 3x BeamZ LCB244 LED Bars, 2x ADJ Sweeper Beam Quad LED, 1x Martin THRILL Vertical Fogger, 1x BeamZ S1500LED
-- SoundSwitch Control One, 2x DMX terminators
-- Cables: TBD (full list to be added later)
+- SoundSwitch Control One, 1x DMX terminator
+- Cables: see Cables List section
 - Truss: 2x 200 x 30 cm with sleeves and plates
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
 - Microphones: Shure SM7dB, Sennheiser XS 1
@@ -354,11 +353,11 @@ Option B: Laptop with SoundSwitch + Control One
 - BeamZ S1500LED Smoke Machine: https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/
 - Sennheiser XS 1: https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon
 - Shure SM7dB: https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp
-  - ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
-  - Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
-  - Netgear GS108 Gigabit Switch: https://www.netgear.com/business/wired/switches/unmanaged/gs108/
-  - Elgato Wave Mic Arm High Rise: https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm
-  - XVive P1 Portable Phantom Power Supply: https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm
-  - Innox RPD FR14S-FS-CB Power Distribution: https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ
+ - ADJ Sweeper Beam Quad LED: https://www.adj.eu/sweeper-beam-quad-led
+ - Behringer XENYX 1204USB: https://www.behringer.com/product.html?modelCode=0601-ACM
+ - Netgear GS108 Gigabit Switch: https://www.netgear.com/business/wired/switches/unmanaged/gs108/
+ - Elgato Wave Mic Arm High Rise: https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm
+ - XVive P1 Portable Phantom Power Supply: https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm
+ - Innox RPD FR14S-FS-CB Power Distribution: https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ
 - Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
 - Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
