@@ -374,6 +374,11 @@ Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one
   - Next/Previous: step through programmed looks
  - Start Autoloops or trigger scripted shows. Verify output on fixtures.
 
+  Tip (AKAI APC40 MKII): You can map APC40 sliders to control light Groups' brightness in SoundSwitch.
+  - In the DMX tab, assign fixtures to Groups (e.g., Group 1 = Spots, Group 2 = Wash, Group 3 = Bars, etc.).
+  - In Settings → MIDI Mapping, map APC40 fader 1 → Group 1 Intensity, fader 2 → Group 2 Intensity, etc.
+  - This provides quick per‑group brightness control from the APC40.
+
   Note: Fog/Smoke is intentionally not included in programmed looks. Trigger smoke manually using the Control One “Smoke” button so you maintain visual control of haze density and prevent overfilling smaller rooms.
 
 ### 6) Soundcheck
