@@ -108,9 +108,9 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ### Example Bill of Materials (BOM)
 
 #### DJ and Audio
-  
+
   DJ and Audio (Summary Table)
-  
+
   | Item | Details |
   |------|---------|
   | Mixer | Denon DJ X1850 Prime |
@@ -122,7 +122,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 #### Lighting Fixtures
   Lighting Fixtures (Summary Table)
-  
+
   | Fixture | Qty |
   |---------|-----|
   | Showtec Phantom 65 Spot | 6 |
@@ -132,7 +132,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
   | ADJ Sweeper Beam Quad LED | 2 |
   | Martin THRILL Vertical Fogger | 1 |
   | BeamZ S1500LED Smoke Machine | 1 |
-  
+
   Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
 #### Control and Rigging
@@ -148,7 +148,18 @@ Additional control hardware:
 ---
 
 ### Kit Contents (What You Receive)
-- Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply; TritonAudio FetHead; ACT USB-C 3-port hub with Ethernet; JACKMEND Laser Distance Meter (100 m); Proster RD60 EMF Detector
+
+  Kit Contents — Accessories Only (Summary Table)
+
+  | Item | Qty |
+  |------|-----|
+  | Mic windscreen (black) | 2 |
+  | Elgato Wave Mic Arm High Rise | 1 |
+  | XVive P1 Portable Phantom Power Supply | 1 |
+  | TritonAudio FetHead | 1 |
+  | ACT USB-C 3-port hub with Ethernet | 1 |
+  | JACKMEND Laser Distance Meter (100 m) | 1 |
+  | Proster RD60 EMF Detector | 1 |
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
@@ -175,7 +186,8 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 | Power | EU (Schuko) plug to PowerCON | 1.0 m | 1 | — |
 | Power | EU (Schuko) plug to PowerCON | 1.4 m | 1 | — |
 | Power | EU (Schuko) plug to PowerCON | 1.5 m | 1 | — |
-| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 1 | Black |
+| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 2  | Black |
+| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 10 m | 1  | Black |
 | Power | DAP 90446 IEC C14 to IEC C13 | 0.9 m | 3 | 3×1.5 mm² |
 | Power | DAP 90446 IEC C14 to IEC C13 | 1.6 m | 1 | 3×1.5 mm² |
 | Power | DAP 92022 Schuko male to IEC C13 | 1.2 m | 1 | 3×1.5 mm² |
