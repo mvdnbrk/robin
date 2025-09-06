@@ -13,7 +13,7 @@ check for updates when published
 | Utility    | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (USB mixer) |
 | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
-| Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX) |
+| Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); 1x DMX terminator |
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
 | Truss      | 2x truss sections 200 x 30 cm with sleeves and top/bottom plates |
 | Cases      | 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB |
@@ -41,6 +41,7 @@ check for updates when published
 | Truss 200 x 30 cm | 2 |
 | Flight case (Showtec heads) | 2 |
 | Flight case (Behringer XENYX) | 1 |
+| DMX terminator (120 Ω) | 1 |
 
 ## DJ + Lighting Setup
 
@@ -130,6 +131,7 @@ Additional control hardware:
   - 1x BeamZ S1500LED Smoke Machine (1500W, 9x 3W RGB; trigger via wired remote or DMX)
   - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (USB)
+ - DMX: 1x 120 Ω DMX terminator
 - Network: Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
@@ -165,26 +167,38 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 ---
 
 ### DMX Layout (Example)
-- Universe: 1 (512 channels)
-- Addressing plan:
-  - Moving Head 1: start 001 (16 ch)
-  - Moving Head 2: start 017 (16 ch)
-  - Moving Head 3: start 033 (16 ch)
-  - Moving Head 4: start 049 (16 ch)
-  - Moving Head 5: start 065 (16 ch)
-  - Moving Head 6: start 081 (16 ch)
-  - Moving Beam 1: start 097 (16 ch)
-  - Moving Beam 2: start 113 (16 ch)
-  - Moving Wash 1: start 129 (16 ch)
-  - Moving Wash 2: start 145 (16 ch)
-  - LED Bar 1: start 161 (16 ch)
-  - LED Bar 2: start 177 (16 ch)
-  - LED Bar 3: start 193 (16 ch)
-  - Effects Bar 1 (Sweeper): start 209 (16 ch)
-  - Effects Bar 2 (Sweeper): start 225 (16 ch)
-  - Fog 1 (Martin THRILL): start 241 (2 ch)
-  - Fog 2 (BeamZ S1500LED): start 243 (2 ch)
-- Terminate the last fixture in the chain with a 120 Ω terminator.
+### DMX Address Plan (SoundSwitch)
+
+Assumed modes unless specified:
+- Movers (spots/beams/washes): 16-channel mode
+- LED bars: 16-channel mode (or closest standard)
+- ADJ Sweepers: 16-channel mode (use basic/pixel mode as preferred)
+- Foggers: 2-channel mode
+
+| # | Fixture | Qty | Mode | Ch/Unit | Universe | Start Address(es) |
+|---|---------|-----|------|---------|----------|-------------------|
+| 1 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 001 |
+| 2 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 017 |
+| 3 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 033 |
+| 4 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 049 |
+| 5 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 065 |
+| 6 | Showtec Phantom 65 Spot | 1 | 16ch | 16 | 1 | 081 |
+| 7 | Cameo Nanobeam 600 | 1 | 16ch | 16 | 1 | 097 |
+| 8 | Cameo Nanobeam 600 | 1 | 16ch | 16 | 1 | 113 |
+| 9 | Showtec Shark Zoom Wash One | 1 | 16ch | 16 | 1 | 129 |
+| 10 | Showtec Shark Zoom Wash One | 1 | 16ch | 16 | 1 | 145 |
+| 11 | BeamZ LCB244 LED Bar | 1 | 16ch | 16 | 1 | 161 |
+| 12 | BeamZ LCB244 LED Bar | 1 | 16ch | 16 | 1 | 177 |
+| 13 | BeamZ LCB244 LED Bar | 1 | 16ch | 16 | 1 | 193 |
+| 14 | ADJ Sweeper Beam Quad LED | 1 | 16ch | 16 | 1 | 209 |
+| 15 | ADJ Sweeper Beam Quad LED | 1 | 16ch | 16 | 1 | 225 |
+| 16 | Martin THRILL Vertical Fogger | 1 | 2ch | 2 | 1 | 241 |
+| 17 | BeamZ S1500LED Smoke Machine | 1 | 2ch | 2 | 1 | 243 |
+
+Notes:
+- This plan fits in Universe 1 (addresses 001–244 used). Leave remaining addresses for future expansion.
+- If you select different DMX modes (e.g., extended/pixel modes), update channel counts and shift subsequent start addresses accordingly.
+- Terminate the last fixture with a 120 Ω DMX terminator.
 
 Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows from track metadata and BPM, and map fixtures via Fixture Profiles. Ensure all fixture profiles exist in the SoundSwitch library.
 
