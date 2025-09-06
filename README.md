@@ -108,12 +108,17 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 ### Example Bill of Materials (BOM)
 
 #### DJ and Audio
-- Mixer: Denon DJ X1850 Prime
-- Media Players: 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library
-- PA: 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active)
-- Microphones: 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required); 2x mic windscreen (black)
-- Utility Mixer/USB Audio: Behringer XENYX 1204USB (for mic routing, recording, or additional sources)
-- Headphones: Pioneer DJ HDJ-X10 (Black)
+  
+  DJ and Audio (Summary Table)
+  
+  | Item | Details |
+  |------|---------|
+  | Mixer | Denon DJ X1850 Prime |
+  | Media Players | 2x Denon DJ SC5000M Prime (motorized platters), with 1 TB internal drive installed for onboard library |
+  | PA | 2x Bose F1 Model 812 Flex Array (active) + 2x Bose F1 Subwoofer (active) |
+  | Microphones | 1x Shure SM7dB dynamic (XLR, built-in preamp; use 48V phantom when preamp is enabled); 1x Sennheiser XS 1 dynamic (XLR; no phantom required); 2x mic windscreen (black) |
+  | Utility Mixer/USB Audio | Behringer XENYX 1204USB (for mic routing, recording, or additional sources) |
+  | Headphones | Pioneer DJ HDJ-X10 (Black) |
 
 #### Lighting Fixtures
   Lighting Fixtures (Summary Table)
