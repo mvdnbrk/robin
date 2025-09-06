@@ -352,6 +352,7 @@ Bose F1 wiring (recommended):
 5. Place a DMX terminator at the last fixture in the chain.
 
  Note: For smaller venues, use light fog fluid to avoid overfilling the room. For example: [Ayra Fog Fluid Light 5L](https://www.bax-shop.nl/rookvloeistof/ayra-rookvloeistof-light-5-liter).
+ Note: Refresh fog fluids before next deployment. The Martin THRILL Vertical Fogger likely contains the wrong fluid (haze instead of smoke) — empty the tank and lines completely and refill with the correct smoke fluid per the manual.
 
 ### 5) Engine Lighting / SoundSwitch Setup
 Option A: Engine Lighting (no laptop during show)
@@ -414,6 +415,7 @@ Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one
 - Truss: 2x 200 x 30 cm with sleeves and plates
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm
 - Power: Energenie 650VA UPS with AVR (4 extra sockets)
+ - Maintenance: Refresh fog fluids; empty and rinse the Martin THRILL Vertical Fogger (had haze fluid) and refill with the correct smoke fluid.
 - Microphones: [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon)
  - Headphones: [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/)
 - [Netgear GS108 Gigabit Switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/)
