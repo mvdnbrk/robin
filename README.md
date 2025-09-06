@@ -3,6 +3,21 @@
 ## UNDER REVIEW
 check for updates when published
 
+## Equipment Overview
+
+| Category    | Equipment |
+|------------|-----------|
+| DJ Booth   | Denon DJ X1850 Prime + 2x SC5000M Prime (flight case), 1 TB internal drive in SC5000M |
+| PA         | 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer |
+| Microphones | Shure SM7dB (wired), Sennheiser XS 1 (wired) |
+| Utility    | Behringer XENYX 1204USB (USB mixer) |
+| Headphones | Pioneer DJ HDJ-X10 (Black) |
+| Lighting   | 6x Showtec Phantom 65 Spot; 2x Cameo Nanobeam 600; 2x Showtec Shark Zoom Wash One RGBW LED; 3x BeamZ LCB244 LED Bars; 2x ADJ Sweeper Beam Quad LED; 1x Martin THRILL Vertical Fogger; 1x BeamZ S1500LED |
+| Control    | SoundSwitch Control One (USB, integrated DMX) |
+| Network    | Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
+| Truss      | 2x truss sections 200 x 30 cm with sleeves and top/bottom plates |
+| Cases      | 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB |
+
 ## DJ + Lighting Setup
 
 This section provides:
