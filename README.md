@@ -69,7 +69,7 @@ Safety note: Verify local regulations for haze/fog and laser use. Avoid audience
 #### Control and Rigging
 - DMX Interface: SoundSwitch Control One (integrated dual DMX outputs)
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
-- Cases: 2x flight cases for Showtec moving heads
+- Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
 - Network: Netgear GS108 8‑port Gigabit switch
 
 Additional control hardware:
@@ -93,7 +93,7 @@ Additional control hardware:
 - Control: SoundSwitch Control One (USB)
 - Network: Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
-- Cases: 2x flight cases for Showtec moving heads
+- Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
  - Headphones: Pioneer DJ HDJ-X10 (Black)
  - Storage: 1 TB internal drive installed in SC5000M for onboard library
 
@@ -251,7 +251,7 @@ Option B: Laptop with SoundSwitch + Control One
 - SoundSwitch Control One, 2x DMX terminators
 - Cables: TBD (full list to be added later)
 - Truss: 2x 200 x 30 cm with sleeves and plates
-- Cases: 2x flight cases for Showtec moving heads
+- Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
 - Microphones: Shure SM7dB, Sennheiser XS 1
  - Headphones: Pioneer DJ HDJ-X10 (Black)
 - Netgear GS108 Gigabit Switch
