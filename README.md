@@ -13,7 +13,7 @@
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 2x [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
 | Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); [AKAI APC40 MKII](https://www.akaipro.com/apc40-mkii) (USB MIDI); 1x DMX terminator |
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
-| Power      | 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A |
+| Power      | 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A; 1x Energenie 650VA UPS with AVR (4 extra sockets) |
 | Truss      | 2x truss sections 200 x 30 cm with sleeves and top/bottom plates |
 | Cases      | 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm |
 
@@ -39,6 +39,7 @@
 | [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) | 1 |
 | [Netgear GS108 switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) | 1 |
 | [Innox RPD FR14S-FS-CB power distribution](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) | 3 |
+| Energenie 650VA UPS with AVR (4 extra sockets) | 1 |
 | Truss 200 x 30 cm | 2 |
 | Flight case (Showtec heads) | 2 |
 | Flight case (Behringer XENYX) | 1 |
@@ -140,7 +141,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates (use rated bases and secure with safety)
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm
 - Network: [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch
-- Power: 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A
+- Power: 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A; 1x Energenie 650VA UPS with AVR (4 extra sockets)
 
 Additional control hardware:
 - [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) USB hardware for hands-on control of Autoloops, Static Looks, Strobe/Blinder, Smoke, Blackout, and next/previous scene selection.
@@ -383,6 +384,7 @@ Note: [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one
 - Cables: see Cables List section
 - Truss: 2x 200 x 30 cm with sleeves and plates
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer; 1x INNOX flight case 60×35×40 cm; 1x small case 40×25×10 cm
+- Power: Energenie 650VA UPS with AVR (4 extra sockets)
 - Microphones: [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon)
  - Headphones: [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/)
 - [Netgear GS108 Gigabit Switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/)
