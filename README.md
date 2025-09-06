@@ -1,8 +1,5 @@
 # ROBIN
 
-## UNDER REVIEW
-check for updates when published
-
 ## Equipment Overview
 
 | Category    | Equipment |
