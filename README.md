@@ -36,7 +36,7 @@ check for updates when published
 | BeamZ LCB244 LED Bar | 3 |
 | ADJ Sweeper Beam Quad LED | 2 |
 | Martin THRILL Vertical Fogger | 1 |
-| BeamZ S1500LED Fog Machine | 1 |
+| BeamZ S1500LED Smoke Machine | 1 |
 | Netgear GS108 switch | 1 |
 | Truss 200 x 30 cm | 2 |
 | Flight case (Showtec heads) | 2 |
@@ -58,7 +58,7 @@ This section provides:
 - Engine DJ OS Updates (on-controller firmware): https://enginedj.com/downloads
 - Denon DJ Product Downloads (firmware, manuals): https://www.denondj.com/downloads
 - SoundSwitch (lighting control, integrates with Engine Lighting): https://www.soundswitch.com/download
-- Engine Lighting (SoundSwitch ◊integration overview): https://enginedj.com/lighting
+- Engine Lighting (SoundSwitch integration overview): https://enginedj.com/lighting
 - Denon DJ Knowledge Base: https://support.inmusicbrands.com/hc/en-us/categories/360002590432-Denon-DJ
 
 Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run SoundSwitch lighting shows directly from the hardware without a laptop.
@@ -74,7 +74,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
     - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
     - 3x BeamZ LCB244 LED Bars
     - 1x Martin THRILL Vertical Fogger
-    - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
+    - 1x BeamZ S1500LED Smoke Machine (1500W, 9x 3W RGB; trigger via wired remote or DMX)
     - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (integrated DMX)
 - Storage: SC5000M includes a 1 TB internal drive for the Engine DJ music library
@@ -100,7 +100,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 - Moving Wash Heads: 2x Showtec Shark Zoom Wash One RGBW LED (motorized zoom wash), 8–16 channels (mode dependent)
 - LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
 - Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
- - Fog: 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs), use manufacturer-recommended fluid
+ - Fog: 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs; trigger via wired remote or DMX), use manufacturer-recommended fluid
  - Effects Bars: 2x ADJ Sweeper Beam Quad LED (RGBW, multi-mode including pixel control)
 
 Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
@@ -126,15 +126,15 @@ Additional control hardware:
   - 2x Cameo Nanobeam 600
   - 2x Showtec Shark Zoom Wash One RGBW LED moving heads
   - 3x BeamZ LCB244 LED Bars
-  - 1x Martin THRILL Vertical Fogger
-  - 1x BeamZ S1500LED Fog Machine (1500W, DMX + LEDs)
+  - 1x Martin THRILL Vertical Fogger (smoke machine)
+  - 1x BeamZ S1500LED Smoke Machine (1500W, 9x 3W RGB; trigger via wired remote or DMX)
   - 2x ADJ Sweeper Beam Quad LED
 - Control: SoundSwitch Control One (USB)
 - Network: Netgear GS108 8‑port Gigabit switch + Cat5e/Cat6 patch cables
 - Truss: 2x truss sections 200 x 30 cm with white cover sleeves and top/bottom plates
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for Behringer XENYX 1204USB mixer
  - Headphones: Pioneer DJ HDJ-X10 (Black)
- - Storage: 1 TB internal drive installed in SC5000M for onboard library
+- Storage: 1 TB internal drive installed in SC5000M for onboard library
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
