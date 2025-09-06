@@ -153,26 +153,26 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 
 ### Cabling and Power
 #### Cables List
-- 1) RCA (tulip) male-to-male stereo cable, blue, 5 m
-- 2) 2x Devine XLR male-to-female cable, 1.5 m, black
-- 3) 2x sssnake XLR male-to-female cable, 0.5 m, black
-- 4) 2x PowerCON male-to-female power cable, 3 m
-- 5) 2x sssnake XLR male-to-female cable, 5.0 m, black
-- 6) 1x Brennenstuhl IP44 extension cable, black, Euro, 5 m
-- 7) 1x RCA (tulip) to 3.5 mm TRS jack cable, 1 m
-- 8) 1x 3.5 mm jack to Lightning adapter
-- 9) 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
-- 10) 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
-- 11) 2x Ethernet patch cable (Cat5e/Cat6), 1 m, white
-- 12) 1x EU (Schuko) plug to PowerCON cable, 1.0 m
-- 13) 1x EU (Schuko) plug to PowerCON cable, 1.4 m
-- 14) 3x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
-- 15) 4x DAP 92022 Schuko male to IEC C13 power cable, 3×1.5 mm² (lengths: 120 cm, 140 cm, 150 cm, 190 cm)
-- 16) 1x Devine DMX cable, 10 m
-- 17) 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 160 cm
-- 18) 1x Procab PSC104 4-way power strip (EU/Schuko), 1.5 m cord
-- 19) 2x PowerCON male-to-female power cable, 1 m; 1x PowerCON male-to-female power cable, 0.7 m
-- 20) 1x EU (Schuko) plug to PowerCON cable, 1.5 m
+- 1x RCA (tulip) male-to-male stereo cable, blue, 5 m
+- 2x Devine XLR male-to-female cable, 1.5 m, black
+- 2x sssnake XLR male-to-female cable, 0.5 m, black
+- 2x PowerCON male-to-female power cable, 3 m
+- 2x sssnake XLR male-to-female cable, 5.0 m, black
+- 1x Brennenstuhl IP44 extension cable, black, Euro, 5 m
+- 1x RCA (tulip) to 3.5 mm TRS jack cable, 1 m
+- 1x 3.5 mm jack to Lightning adapter
+- 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
+- 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
+- 2x Ethernet patch cable (Cat5e/Cat6), 1 m, white
+- 1x EU (Schuko) plug to PowerCON cable, 1.0 m
+- 1x EU (Schuko) plug to PowerCON cable, 1.4 m
+- 3x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
+- 4x DAP 92022 Schuko male to IEC C13 power cable, 3×1.5 mm² (lengths: 120 cm, 140 cm, 150 cm, 190 cm)
+- 1x Devine DMX cable, 10 m
+- 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 160 cm
+- 1x Procab PSC104 4-way power strip (EU/Schuko), 1.5 m cord
+- 2x PowerCON male-to-female power cable, 1 m; 1x PowerCON male-to-female power cable, 0.7 m
+- 1x EU (Schuko) plug to PowerCON cable, 1.5 m
 
 ---
 
