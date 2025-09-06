@@ -160,6 +160,8 @@ Additional control hardware:
   | ACT USB-C 3-port hub with Ethernet | 1 |
   | JACKMEND Laser Distance Meter (100 m) | 1 |
   | Proster RD60 EMF Detector | 1 |
+  | Showgear clamp for moving head | 4 |
+  | Innox Safety Cable 30 cm (black) | 8 |
 
 If any item is missing or damaged, stop and contact the equipment provider before proceeding.
 
@@ -184,15 +186,18 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 | Audio | sssnake XLR male-to-female | 6.0 m | 1 | Black |
 | DMX | Devine DMX cable | 10 m | 1 | — |
 | Network | Ethernet patch cable (Cat5e/Cat6) | 1 m | 3 | White |
-| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 5 m | 2  | Black |
-| Power | Brennenstuhl IP44 extension cable (EU/Schuko) | 10 m | 1  | Black |
-| Power | DAP 90446 IEC C14 to IEC C13 | 0.9 m | 3 | 3×1.5 mm² |
-| Power | DAP 90446 IEC C14 to IEC C13 | 1.6 m | 1 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 1.0 m | 2 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 1.2 m | 1 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 1.4 m | 1 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 1.5 m | 1 | 3×1.5 mm² |
-| Power | DAP 92022 Schuko male to IEC C13 | 2.0 m | 2 | 3×1.5 mm² |
+| Power | EU (Schuko) extension cable (3×1.5 mm²) | 5 m | 2  | Black |
+| Power | EU (Schuko) extension cable (3×1.5 mm²) | 10 m | 1  | Black |
+| Power | IEC C14 to IEC C13 power cable | 0.9 m | 3 | 3×1.5 mm² |
+| Power | IEC C14 to IEC C13 power cable | 1.6 m | 1 | 3×1.5 mm² |
+| Power | Schuko (EU) male to IEC C13 power cable | 1.0 m | 2 | 3×1.5 mm² |
+| Power | Schuko (EU) male to IEC C13 power cable | 1.2 m | 1 | 3×1.5 mm² |
+| Power | Schuko (EU) male to IEC C13 power cable | 1.4 m | 1 | 3×1.5 mm² |
+| Power | Schuko (EU) male to IEC C13 power cable | 1.5 m | 1 | 3×1.5 mm² |
+| Power | Schuko (EU) male to IEC C13 power cable | 2.0 m | 2 | 3×1.5 mm² |
+| Power | EU (Schuko) extension cable (3×1.5 mm²) | 1.0 m | 1 | — |
+| Power | EU (Schuko) extension cable (3×1.5 mm²) | 1.5 m | 4 | — |
+| Power | EU (Schuko) extension cable (3×1.5 mm²) | 5.0 m | 1 | — |
 | Power | PowerCON male-to-female | 0.7 m | 1 | — |
 | Power | PowerCON male-to-female | 1 m | 2 | — |
 | Power | PowerCON male-to-female | 3 m | 2 | — |
