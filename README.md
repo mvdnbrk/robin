@@ -316,6 +316,8 @@ Bose F1 wiring (recommended):
 4. Plug in power to each fixture. Use IEC/PowerCON as applicable. Keep DMX and power separated where possible.
 5. Place a DMX terminator at the last fixture in the chain.
 
+ Note: For smaller venues, use light fog fluid to avoid overfilling the room. For example: [Ayra Fog Fluid Light 5L](https://www.bax-shop.nl/rookvloeistof/ayra-rookvloeistof-light-5-liter).
+
 ### 5) Engine Lighting / SoundSwitch Setup
 Option A: Engine Lighting (no laptop during show)
 - In controller settings, enable Engine Lighting.
@@ -406,3 +408,4 @@ Option B: Laptop with SoundSwitch + Control One
 - Tidal: https://tidal.com
 - Beatport: https://www.beatport.com
  - ACT USB-C 3-port hub with Ethernet: https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html
+ - Ayra Fog Fluid Light 5L: https://www.bax-shop.nl/rookvloeistof/ayra-rookvloeistof-light-5-liter
