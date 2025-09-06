@@ -12,7 +12,7 @@ check for updates when published
 | Microphones | [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp) (wired), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon) (wired); 2x mic windscreen (black) |
 | Utility    | [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) (USB mixer) |
 | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
-| Accessories | [Elgato Wave Mic Arm High Rise](https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm); [XVive P1 Portable Phantom Power Supply](https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm) |
+| Accessories | [Elgato Wave Mic Arm High Rise](https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm); [XVive P1 Portable Phantom Power Supply](https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm); TritonAudio FetHead; [ACT USB-C 3-port hub with Ethernet](https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html) |
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
 | Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); 1x DMX terminator |
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
@@ -48,6 +48,8 @@ check for updates when published
 | DMX terminator (120 Ω) | 1 |
 | Elgato Wave Mic Arm High Rise | 1 |
 | XVive P1 Portable Phantom Power Supply | 1 |
+| TritonAudio FetHead | 1 |
+| ACT USB-C 3-port hub with Ethernet | 1 |
 
 ## DJ + Lighting Setup
 
@@ -91,6 +93,16 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 ---
 
+#### Prewired Flight Case (What’s Already Connected)
+- Inside the flight case, the Denon SC5000M players are linked to the X1850 via RCA (audio) and Denon Link (Ethernet) and the internal power harness is connected (3x plugs on one distro strip).
+- The Netgear GS108 switch is mounted and connected to the players/mixer internally.
+- External connections you still need to make on-site:
+  - Mains power to the flight case
+  - XLR runs from the mixer master outputs to the PA (subs/tops)
+  - One Ethernet patch from GS108 to the venue’s internet router (optional, for updates/network time)
+
+---
+
 ### Example Bill of Materials (BOM)
 
 #### DJ and Audio
@@ -128,7 +140,7 @@ Additional control hardware:
 - Flight Case (DJ players + mixer): X1850 Prime mixer + 2x SC5000M Prime media players
 - PA: 2x Bose F1 Model 812 Flex Array loudspeakers + 2x Bose F1 Subwoofer
 - Microphones: 1x Shure SM7dB (wired), 1x Sennheiser XS 1 (wired)
- - Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply
+ - Accessories: 2x mic windscreen (black); Elgato Wave Mic Arm High Rise; XVive P1 Portable Phantom Power Supply; TritonAudio FetHead; ACT USB-C 3-port hub with Ethernet
 - Utility: Behringer XENYX 1204USB (USB mixer)
 - Lighting:
   - 6x Showtec Phantom 65 Spot
@@ -163,7 +175,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 1x 3.5 mm jack to Lightning adapter
 - 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
 - 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
-- 2x Ethernet patch cable (Cat5e/Cat6), 1 m, white
+- 3x Ethernet patch cable (Cat5e/Cat6), 1 m, white
 - 1x EU (Schuko) plug to PowerCON cable, 1.0 m
 - 1x EU (Schuko) plug to PowerCON cable, 1.4 m
 - 3x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
@@ -173,15 +185,16 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 1x Procab PSC104 4-way power strip (EU/Schuko), 1.5 m cord
 - 2x PowerCON male-to-female power cable, 1 m; 1x PowerCON male-to-female power cable, 0.7 m
 - 1x EU (Schuko) plug to PowerCON cable, 1.5 m
+- 1x USB-C to 3.5 mm TRS (female) audio adapter
+- 1x 3.5 mm TRS (mini-jack) male to dual 6.35 mm TS (1/4") male Y-cable
 
 ---
 
 ### Network Connectivity
-- Place the Netgear GS108 switch near the X1850.
-- Connect X1850 Ethernet to GS108 (any port).
-- Connect both SC5000M players’ Ethernet to GS108.
+- Switch is already installed inside the flight case and linked to the X1850 and both SC5000M units.
 - Optional: connect a laptop to GS108 for Engine DJ Desktop/updates if needed.
-- Use Cat5e/Cat6 cables. No special IP setup is required; devices auto‑link.
+- External network is optional. If desired, connect one Ethernet patch from GS108 to the venue/house internet router to enable services like Apple Music, Tidal, or Beatport Link (paid plans required).
+- Use Cat5e/Cat6 cables. No special IP setup is required; devices auto-link.
 
 ---
 
@@ -252,11 +265,15 @@ Note: If using Engine Lighting with SoundSwitch, you can auto-generate shows fro
 
 ### 3) Build Audio
 1. Place subs and tops. Power off everything.
-2. Connect controller master out to subs (XLR L/R). From subs’ high-pass outs to tops (XLR L/R).
+2. The flight case is prewired for deck↔mixer audio and Denon Link. Connect mixer master out to subs (XLR L/R). From subs’ high-pass outs to tops (XLR L/R).
 3. Connect booth out to booth monitors (TRS/XLR).
 4. Connect microphone(s): SM7dB via XLR to mixer input (enable phantom if using built-in preamp); XS 1 via XLR (no phantom required).
 5. Power on sequence: controller → subs → tops → booth monitors.
 6. Set initial gains: controller master at 0 dB, channel gains to unity, subs/tops input gains noon; limiters on.
+
+Quick connection summary:
+- Mixer Left XLR → Left Sub input; Left Sub HPF/Thru Out → Left Top input
+- Mixer Right XLR → Right Sub input; Right Sub HPF/Thru Out → Right Top input
 
 Using XENYX 1204USB (optional):
 - Route mics into XENYX channels; send XENYX main outs to X1850 line inputs (L/R) for FOH.
@@ -361,3 +378,6 @@ Option B: Laptop with SoundSwitch + Control One
  - Innox RPD FR14S-FS-CB Power Distribution: https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ
 - Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
 - Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
+- Tidal: https://tidal.com
+- Beatport: https://www.beatport.com
+ - ACT USB-C 3-port hub with Ethernet: https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html
