@@ -11,7 +11,7 @@
 | Headphones | [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/) |
 | Accessories | [Elgato Wave Mic Arm High Rise](https://www.thomann.nl/elgato_wave_mic_arm_high_rise.htm); [XVive P1 Portable Phantom Power Supply](https://www.thomann.nl/xvive_p1_portable_phantom_power_sup.htm); TritonAudio FetHead; [ACT USB-C 3-port hub with Ethernet](https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html); JACKMEND Laser Distance Meter (100 m); Proster RD60 EMF Detector |
 | Lighting   | 6x [Showtec Phantom 65 Spot](https://www.bax-shop.nl/led-moving-head/showtec-phantom-65-spot-led-movinghead); 2x [Cameo Nanobeam 600](https://www.cameolight.com/en/solutions/dj-musicians/moving-lights/moving-heads/20447/nanobeam-600); 2x [Showtec Shark Zoom Wash One](https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead); 3x [BeamZ LCB244](https://www.beamzlighting.com/product/lcb244-led-bar-24x-4w/) LED Bars; 2x [ADJ Sweeper Beam Quad LED](https://www.adj.eu/sweeper-beam-quad-led); 2x [BeamZ SB200 LED Stage Blinder](https://www.beamzlighting.com/product/sb200-stage-blinder-2x-50w-cob-led/); 1x [Martin THRILL Vertical Fogger](https://www.gear4music.nl/nl/PA-DJ-and-Verlichting/Martin-THRILL-Verticale-Fogger/25YE); 1x [BeamZ S1500LED Smoke Machine](https://www.beamzlighting.com/product/s1500led-smoke-machine-9x-3w-rgb-dmx/) |
-| Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); 1x DMX terminator |
+| Control    | [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) (USB, integrated DMX); [AKAI APC40 MKII](https://www.akaipro.com/apc40-mkii) (USB MIDI); 1x DMX terminator |
 | Network    | [Netgear GS108](https://www.netgear.com/business/wired/switches/unmanaged/gs108/) 8‑port Gigabit switch + Cat5e/Cat6 patch cables |
 | Power      | 3x [Innox RPD FR14S-FS-CB](https://www.amazon.de/-/en/Innox-FR14S-FS-CB-Distribution-Overload-Protection/dp/B07N8ZV3NQ) 19″ power distribution (Type F/CEE 7/4), overload protection 10 A |
 | Truss      | 2x truss sections 200 x 30 cm with sleeves and top/bottom plates |
@@ -43,6 +43,7 @@
 | Flight case (Showtec heads) | 2 |
 | Flight case (Behringer XENYX) | 1 |
 | DMX terminator (120 Ω) | 1 |
+| [AKAI APC40 MKII](https://www.akaipro.com/apc40-mkii) | 1 |
 | Elgato Wave Mic Arm High Rise | 1 |
 | XVive P1 Portable Phantom Power Supply | 1 |
 | TritonAudio FetHead | 1 |
@@ -141,6 +142,7 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
 
 Additional control hardware:
 - [SoundSwitch Control One](https://www.soundswitch.com/hardware/control-one) USB hardware for hands-on control of Autoloops, Static Looks, Strobe/Blinder, Smoke, Blackout, and next/previous scene selection.
+- [AKAI APC40 MKII](https://www.akaipro.com/apc40-mkii) USB MIDI controller (optional) for DAW integration or custom MIDI mapping.
 
 ---
 
@@ -376,7 +378,7 @@ Option B: Laptop with SoundSwitch + Control One
 - Cases: 2x flight cases for Showtec moving heads; 1x flight case for [Behringer XENYX 1204USB](https://www.behringer.com/product.html?modelCode=0601-ACM) mixer
 - Microphones: [Shure SM7dB](https://www.bax-shop.nl/dynamische-zang-microfoons/shure-sm7db-dynamische-studiomicrofoon-met-ingebouwde-preamp), [Sennheiser XS 1](https://www.bax-shop.nl/dynamische-zangmicrofoons/sennheiser-xs-1-dynamische-microfoon)
  - Headphones: [Pioneer DJ HDJ-X10 (Black)](https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/)
- - [Netgear GS108 Gigabit Switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/)
+- [Netgear GS108 Gigabit Switch](https://www.netgear.com/business/wired/switches/unmanaged/gs108/)
 
 ---
 
@@ -404,6 +406,7 @@ Option B: Laptop with SoundSwitch + Control One
 - Showtec Shark Zoom Wash One RGBW LED: https://www.bax-shop.nl/led-moving-head/showtec-shark-zoom-wash-one-rgbw-led-movinghead
 - Pioneer DJ HDJ-X10 (Black): https://www.pioneerdj.com/en/product/headphones/hdj-x10/black/overview/
 - Tidal: https://tidal.com
-- Beatport: https://www.beatport.com
+ - Beatport: https://www.beatport.com
  - ACT USB-C 3-port hub with Ethernet: https://www.coolblue.nl/product/837913/act-usb-c-3-poorts-hub-met-ethernet.html
+ - AKAI APC40 MKII: https://www.akaipro.com/apc40-mkii
  - Ayra Fog Fluid Light 5L: https://www.bax-shop.nl/rookvloeistof/ayra-rookvloeistof-light-5-liter
