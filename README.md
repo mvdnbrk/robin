@@ -171,6 +171,8 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 - 16) 1x Devine DMX cable, 10 m
 - 17) 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 160 cm
 - 18) 1x Procab PSC104 4-way power strip (EU/Schuko), 1.5 m cord
+- 19) 2x PowerCON male-to-female power cable, 1 m; 1x PowerCON male-to-female power cable, 0.7 m
+- 20) 1x EU (Schuko) plug to PowerCON cable, 1.5 m
 
 ---
 
