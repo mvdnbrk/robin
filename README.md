@@ -102,43 +102,7 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 ---
 
 ### Cabling and Power
-
-#### Audio Cables
-- XLR(M–F) balanced
-  - 2x 10 m for tops
-  - 2x 2–5 m for booth monitors
-  - 2x 5–10 m from controller/mixer to subs (if subs handle crossover)
-- TRS 1/4" balanced
-  - 2x 1–3 m utility patch
-- RCA
-  - 1x 1–2 m backup/aux input cable
-
-#### DMX Cables (110–120 Ω, not audio XLR)
-- 3-pin or 5-pin based on fixtures
-  - 2x 10 m main runs
-  - 15x 5 m fixture links
-  - 8x 1–2 m short patch leads
-- DMX Terminators
-  - 2x 120 Ω terminators for end-of-line
-
-#### Power Cables
-- Mains Extensions (region-specific plugs)
-  - 2x 10–15 m
-  - 4x 5 m
-- IEC C13/C14
-  - 8–12x 2–3 m for fixtures and speakers
-- PowerCON (if your speakers/fixtures use them)
-  - 2–4x 3–5 m
-- Power Distribution
-  - 2x 6–8 outlet power strips with surge/RCD where required
-  - 1x small rack/box distro (optional) with MCBs/RCDs per local code
-
-Cable management: Velcro ties, cable ramps for walkways, gaffer tape (residue-free), and labeled ends.
-
-#### Ethernet (Network)
-- Cat5e/Cat6 patch cables
-  - 3x 1–3 m (X1850 ↔ GS108, SC5000M #1 ↔ GS108, SC5000M #2 ↔ GS108)
-  - 1x 3–5 m (optional laptop ↔ GS108, if using network features)
+TBD — Cables list will be added later.
 
 ---
 
@@ -285,7 +249,7 @@ Option B: Laptop with SoundSwitch + Control One
 - 2x Bose F1 Model 812 + 2x Bose F1 Subwoofer
 - 6x Showtec Phantom 65 Spot, 2x Cameo Nanobeam 600, 2x Showtec Shark Zoom Wash One RGBW LED, 3x BeamZ LCB244 LED Bars, 2x ADJ Sweeper Beam Quad LED, 1x Martin THRILL Vertical Fogger, 1x BeamZ S1500LED
 - SoundSwitch Control One, 2x DMX terminators
-- Cables: XLR, DMX, power as required
+- Cables: TBD (full list to be added later)
 - Truss: 2x 200 x 30 cm with sleeves and plates
 - Cases: 2x flight cases for Showtec moving heads
 - Microphones: Shure SM7dB, Sennheiser XS 1
