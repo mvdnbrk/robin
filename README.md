@@ -141,7 +141,17 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 ---
 
 ### Cabling and Power
-TBD — Cables list will be added later.
+#### Cables List
+- 1) RCA (tulip) male-to-male stereo cable, blue, 5 m
+- 2) 2x Devine XLR male-to-female cable, 1.5 m, black
+- 3) 2x sssnake XLR male-to-female cable, 0.5 m, black
+- 4) 2x PowerCON male-to-female power cable, 3 m
+- 5) 2x sssnake XLR male-to-female cable, 5.0 m, black
+- 6) 1x Brennenstuhl IP44 extension cable, black, Euro, 5 m
+- 7) 1x RCA (tulip) to 3.5 mm TRS jack cable, 1 m
+- 8) 1x 3.5 mm jack to Lightning adapter
+- 9) 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
+- 10) 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
 
 ---
 
