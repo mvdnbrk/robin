@@ -127,15 +127,8 @@ Tip: With compatible Denon DJ controllers/players, Engine Lighting lets you run 
   | ADJ Sweeper Beam Quad LED | 2 |
   | Martin THRILL Vertical Fogger | 1 |
   | BeamZ S1500LED Smoke Machine | 1 |
-- Moving Head Spots: 6x Showtec Phantom 65 Spot (65W LED), 16-bit pan/tilt, gobo + color wheel, 8–16 channels (mode dependent)
-- Moving Beam Heads: 2x Cameo Nanobeam 600 (beam), 8–16 channels (mode dependent)
-- Moving Wash Heads: 2x Showtec Shark Zoom Wash One RGBW LED (motorized zoom wash), 8–16 channels (mode dependent)
-- LED Bars: 3x BeamZ LCB244 LED Bar (24x 4W RGBW), typical 16-ch mode supported
-- Fog: 1x Martin THRILL Vertical Fogger (vertical CO2-style effect), use manufacturer-recommended fluid
- - Fog: 1x BeamZ S1500LED Smoke Machine (1500W, DMX + LEDs; trigger via wired remote or DMX), use manufacturer-recommended fluid
- - Effects Bars: 2x ADJ Sweeper Beam Quad LED (RGBW, multi-mode including pixel control)
-
-Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
+  
+  Safety note: Verify local regulations for haze/fog and laser use. Avoid audience scanning with lasers; prefer no-laser rigs for mobile events.
 
 #### Control and Rigging
 - DMX Interface: SoundSwitch Control One (integrated dual DMX outputs)
@@ -177,30 +170,6 @@ If any item is missing or damaged, stop and contact the equipment provider befor
 ---
 
 ### Cabling and Power
-#### Cables List
-- 1x RCA (tulip) male-to-male stereo cable, blue, 5 m
-- 2x Devine XLR male-to-female cable, 1.5 m, black
-- 2x sssnake XLR male-to-female cable, 0.5 m, black
-- 2x PowerCON male-to-female power cable, 3 m
-- 2x sssnake XLR male-to-female cable, 5.0 m, black
-- 1x RCA (tulip) to 3.5 mm TRS jack cable, 1 m
-- 1x 3.5 mm jack to Lightning adapter
-- 2x 6.35 mm (1/4") jack male-to-male cable, 6 m, black
-- 1x power strip (extension lead) with 3 grounded outlets, EU plug, 1.5 m
-- 3x Ethernet patch cable (Cat5e/Cat6), 1 m, white
-- 1x EU (Schuko) plug to PowerCON cable, 1.0 m
-- 1x EU (Schuko) plug to PowerCON cable, 1.4 m
-- 3x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 0.9 m
-- 4x DAP 92022 Schuko male to IEC C13 power cable, 3×1.5 mm² (lengths: 120 cm, 140 cm, 150 cm, 190 cm)
-- 1x Devine DMX cable, 10 m
-- 1x DAP 90446 IEC C14 to IEC C13 extension cable, 3×1.5 mm², 160 cm
-- 1x Procab PSC104 4-way power strip (EU/Schuko), 1.5 m cord
-- 2x PowerCON male-to-female power cable, 1 m; 1x PowerCON male-to-female power cable, 0.7 m
-- 1x EU (Schuko) plug to PowerCON cable, 1.5 m
-- 1x USB-C to 3.5 mm TRS (female) audio adapter
-- 1x 3.5 mm TRS (mini-jack) male to dual 6.35 mm TS (1/4") male Y-cable
-- 1x USB 2.0 Type-B (printer) to USB-A cable, blue, 1.8 m — for Denon DJ firmware updates/library sync
-
 #### Cables Table (Summary)
 | Type | Description | Length | Qty | Color/Notes |
 |------|-------------|--------|-----|-------------|
